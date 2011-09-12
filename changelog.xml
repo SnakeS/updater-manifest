@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelog>
+	<Version name="0.1-GingerMOD">
+		<item>First Release</item>
+		<item>Ported to Galaxy SII</item>
+		<item>Version number reset</item>
+		<item>Modified to have Extras tab</item>
+		<item>ScreenShot Support (for themes for example)</item>
+		<item>Thx to anyone helped me and made it possible, see the "About"!!</item>
+	</Version>
+</changelog>

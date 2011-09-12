@@ -1,0 +1,17 @@
+{
+    "MirrorList": [
+	"http://gingermod-updater-app.googlecode.com/files/"
+    ],
+    "UpdateList": [
+    {   
+            "mod": "GT-I9100",
+            "board": "GT-I9100",
+            "type": "rom",
+            "name": "GingerMOD",
+            "version": "0.4.1",
+            "description": "Update",
+            "branch": "S",
+            "filename": "GingerMOD.zip"
+        },
+    ]
+}

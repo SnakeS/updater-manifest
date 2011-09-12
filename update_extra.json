@@ -1,0 +1,26 @@
+{
+    "MirrorList": [
+	"http://github.com/downloads/89luca89/gingermodupdaterapp/"
+    ],
+    "UpdateList": [
+    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "DLNA",
+            "version": "v7",
+            "description": "Restores DLNA samsung apps",
+            "branch": "S",
+            "filename": "DLNA.zip",
+            "Screenshots": [
+                    "http://img683.imageshack.us/img683/7383/gb1k.png",
+                    "http://img830.imageshack.us/img830/8775/gb2.png",
+                    "http://img231.imageshack.us/img231/8826/gb3.png",
+                    "http://img593.imageshack.us/img593/1069/gb4.png",
+                    "http://img804.imageshack.us/img804/5475/gb5m.png",
+                    "http://img855.imageshack.us/img855/6660/gb6.png"
+            ]
+
+        },
+    ]
+}
