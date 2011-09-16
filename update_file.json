@@ -1,17 +1,17 @@
 {
     "MirrorList": [
-	"http://github.com/downloads/89luca89/gingermodupdaterapp/"
+	"http://dynamic-networks.ch/TheGingerMOD/"
     ],
     "UpdateList": [
     {   
             "mod": "GT-I9100",
             "board": "GT-I9100",
             "type": "rom",
-            "name": "GingerMOD",
+            "name": "TheGingerMOD-v0.4.1",
             "version": "0.4.1",
-            "description": "Update",
+            "description": "Testing update blah blah blah blah",
             "branch": "S",
-            "filename": "GingerMOD.zip"
+            "filename": "TheGingerMOD-v0.4b_update.zip"
         },
     ]
 }
