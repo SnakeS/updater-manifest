@@ -13,16 +13,6 @@
             "branch": "S",
             "filename": "TheGingerMOD_v0.5_update.zip"
         },
-        	
-    {   
-            "mod": "GT-I9100",
-            "board": "GT-I9100",
-            "type": "rom",
-            "name": "TheGingerMOD-v0.4.1",
-            "version": "0.4.1",
-            "description": "Testing update blah blah blah blah",
-            "branch": "S",
-            "filename": "TheGingerMOD_v0.4b_update.zip"
-        },
+
     ]
 }
