@@ -1,6 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <changelog>
-	<Version name="0.1-GingerMOD">
+        <Version name="GingerMOD v0.5 (Rom)">
+		<item>Based on OFFICIAL XWKI4</item>
+		<item>Multi CSC</item>
+		<item>Ported ALL the Mods</item>
+		<item>Speedier!</item>
+		<item>More fluid (deals with ondemand governor, trying to resolve)</item>
+		<item>Best Battery Life!</item>
+		<item>Disables FullBattery Notification&Sound (thx pulser_g2 for Mod and the help! :D)</item>
+		<item>Updater SU Binary&App to 3.0</item>
+		<item>NEW AOSP Bootanimation (Android one)</item>
+		<item>Removed BootSound (AOSP Does not have it! If you want it just place a PowerON.wav file in /system/etc)</item>
+		<item>Removed Shutdown Animation (Nice but not AOSP!)</item>
+		<item>Added Sip over 3G</item>
+		<item>Added (ported) 9 toggles scrollable from jKay! Great work dude!</item>
+		<item>Redone Toggles icons by ME</item>
+		<item>Added Longpress on toggle to have corrispondent settings (Again from jKay!)</item>
+		<item>Added again Longpress Vol+/- to change songs and -now- also FM station (from jKay!)</item>
+		<item>ADDED TheGINGERMOD UPDATER APP! OTA UPDATES AND EXTRAS!</item>
+		<item>Placed Updater and Extras in Settings (instead of in drawer)</item>
+		<item>		</item>
+		<item>Added few new packs:</item>
+		<item>Updated all packs apps&libs to KI4</item>
+		<item>Added LGWidgets! (cool widgets works with any launcher!)</item>
+		<item>Added PolarisOffice (we paid for it! So just use it if you want! :D)</item>
+		<item>Added jKAY 10.1 pack! Its themed to not alter the AOSP theme but has all feature and setting app! :D</item>
+		<item>Added COmplete Samsung Hubs/Apps/Accounts pack to have them Back!</item>
+	</Version>
+	    <Version name="GingerMOD v0.4 (Rom)">
+		<item>Multi CSC </item>
+		<item>Redone KernelTweaks (faster than ever!)</item>
+		<item>Redone Dual Core Scripts (Now you choose Freqs with OC-Daemon and Voltages with DualCore scripts!)</item>
+		<item>Reverted Automatic Backlight Mod (had some problems)</item>
+		<item>Re-Enabled FastDormancy Menu&Extra with code *#*#9900#*#*</item>
+		<item>New FuGju Tweaks con parti di Honeycomb 3.1</item>
+		<item>New I/O Tweaks</item>
+		<item>New Longpress Vol +/- to change song when screen off-> So many thx aerobahn!</item>
+		<item>Added AOSP Gallery</item>
+		<item>Removed Samsung VIDEO/DIVX/Gallery--> There is a package fo that!</item>
+		<item>Transparent Lockscreen Background by default</item>
+		<item>Added Possibility to set LockWallpaper going in GingerMOD Extras</item>
+		<item>Removed Labels from Statusbar power widget (liket it but takes too much space!)</item>
+	</Version>
+        <Version name="GingerMOD v0.3 (Rom)">
+        	<item>Slimmed down system now only 230mb!!</item>
+		<item>Update ninphetamine 2.1.3</item>
+		<item>Update latest gApps 29\07\2011</item>
+		<item>Updated StatusBar colors look&feel (see screenshots! more AOSP like power widget)</item>
+		<item>Revised Multimedia quality via build.prop and media_profiles.xml</item>
+		<item>Revised Automatic Screen brighness level Thx LockedON again! (added more steps, smoother changes!)</item>
+		<item>Removed Swype keyboard (downloadable as separate pack)</item>
+		<item>Removed MotionSettings and MobilePrint (downloadable as separate pack)</item>
+		<item>Added OverClock Daemon! THX rmk40 madmaxx82 mike1986 and Diamondback2010 </item>
+		<item>Added DualCore daemon script! Thx Again madmaxx82!! see in main thread the infos&settings!</item>
+	</Version>
+	 <Version name="GingerMOD v0.2.1 (Rom)">
+	        <item>Upgrade Ninphetamine 2.1.1 (fantastic :O)</item>
+		<item>GingerMOD Extras-> Mount/Unmount ntfs partition</item>
+		<item>GIngerMOD Extras-> Switch bootanimation (with one in /sdcard)</item>
+		<item>PATCH BLN support! Download it separately!</item>
+		<item>Bugfix-> Resolved Keyboard not Vibrating</item>
+		<item>Bugfix-> Resized landscape Keyboard (match AOSP one) but bigger in portrait (like before!)</item>
+	</Version>
+	<Version name="GingerMOD v0.2 (Rom)">
+		<item>HK3 Modem</item>
+		<item>Fixed Missing Zipalign binary</item>
+		<item>Reduced system! Now only 231.8mb Uncompressed!!</item>
+		<item>Removed Unused Samsung Libs/Files (restored with Feature packs when needed)</item>
+		<item>INtroduced GingerMODExtras App</item>
+		<item>Removed ANY Graphic Glitch (Thx to LockedON!!)</item>
+		<item>Removed Kies Air from Wireless settings (restores original with Kies pack!)</item>
+		<item>Removed Samsung Apps option from Applications settings</item>
+		<item>Removed Samsung sound when plug USB</item>
+		<item>AOSPized Theme Dialer/COntacts (Thx LockedON!)</item>
+		<item>AOSPized Colors for Notifications (see screenshot! by Me!)</item>
+		<item>AOSPized Colors Settings (now white not blue! by ME!)</item>
+		<item>AOSPized Colors TextSelection (Now orange not blue! By ME!)</item>
+		<item>Added Label for StatusBar power icons (by me, I like it this way xD)</item>
+		<item>Added EFS Backup thx to Modaco!</item>
+		<item>Added Fix for Homescreen wakeup lag (thx Oliwe!)</item>
+		<item>Added More Features Packs Samsung!</item>
+		<item>Reworked Build.prop and Memory settings to give the MAX of speed and fluidity!</item>
+	</Version>
+        <Version name="GingerMOD v0.1 (Rom)">
+	    <item>Visual overhaul</item>
+		<item>Initial Release See Complete Changelog in Official Topic!</item>
+	</Version>
+	<Version name="0.1-GingerMOD Updater app!">
 		<item>First Release</item>
 		<item>Ported to Galaxy SII</item>
 		<item>Version number reset</item>
