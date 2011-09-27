@@ -3,25 +3,13 @@
 	"http://dynamic-networks.ch/TheGingerMOD/Extra/"
     ],
     "UpdateList": [
-    {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "BLN Patch",
-            "version": "",
-            "description": "Restores BLN support",
-            "branch": "S",
-            "filename": "BLN_patch.zip",
-            "Screenshots": [
-            ]
-        },
             {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "DLNA Patch",
+            "name": "jKay-MOD AOSPTheme",
             "version": "",
-            "description": "Restores DLNA samsung apps",
+            "description": "Install latest jKay 10.1 with AOSP Theme",
             "branch": "S",
             "filename": "DLNA.zip",
             "Screenshots": [
@@ -59,7 +47,7 @@
             "version": "",
             "description": "Installs Swype samsung Keyboard",
             "branch": "S",
-            "filename": "Keyboard_Swype_Samsung.zip",
+            "filename": "Keyboard_Swype_update.zip",
             "Screenshots": [
             ]
         },
@@ -71,7 +59,7 @@
             "version": "",
             "description": "Installs Samsung TW Keyboard",
             "branch": "S",
-            "filename": "TW_Keyboard.zip",
+            "filename": "Keyboard_Samsung_update.zip",
             "Screenshots": [
             ]
         },
@@ -79,11 +67,11 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "Samsung Apps (complete)",
+            "name": "LG Widgets",
             "version": "",
-            "description": "Restores all samsung apps and accounts!",
+            "description": "It will install some of the LG Widgets! Very Cool!!",
             "branch": "S",
-            "filename": "SamsungApps.zip",
+            "filename": "LG_WidgetsPack.zip",
             "Screenshots": [
             ]
         },
@@ -91,47 +79,11 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "Samsung Dive",
+            "name": "PolarisOffice",
             "version": "",
-            "description": "Restores samsung Dive account!",
+            "description": "Restores samsung PolarisOffice Full editor!",
             "branch": "S",
-            "filename": "TW_SamsungDive.zip",
-            "Screenshots": [
-            ]
-	},
-            {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "Samsung Screenshot Service",
-            "version": "",
-            "description": "Restores samsung Screenshot Service Shortcut!",
-            "branch": "S",
-            "filename": "Screenshot_Service.zip",
-            "Screenshots": [
-            ]
-	},
-            {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "Samsung Note and Task Utilities",
-            "version": "",
-            "description": "Restores samsung Notes, PostIt and VoiceRecorder!",
-            "branch": "S",
-            "filename": "Task_Utility.zip",
-            "Screenshots": [
-            ]
-	},
-            {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "Samsung Dive",
-            "version": "",
-            "description": "Restores samsung Dive account!",
-            "branch": "S",
-            "filename": "TW_SamsungDive.zip",
+            "filename": "PolarisOffice_Pack.zip",
             "Screenshots": [
             ]
 	},
@@ -143,10 +95,22 @@
             "version": "",
             "description": "Restores samsung Calculator app!",
             "branch": "S",
-            "filename": "TW_calculator.zip",
+            "filename": "TW_Calculator.zip",
             "Screenshots": [
             ]
 	},
+            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "DLNA Patch",
+            "version": "",
+            "description": "Restores DLNA samsung apps",
+            "branch": "S",
+            "filename": "TW_DLNA.zip",
+            "Screenshots": [
+            ]
+        },
             {   
             "mod": "*",
             "board": "GT-I9100",
@@ -155,7 +119,7 @@
             "version": "",
             "description": "Restores samsung Calendar app!",
             "branch": "S",
-            "filename": "TW_calendar.zip",
+            "filename": "TW_Calendar.zip",
             "Screenshots": [
             ]
 	},
@@ -167,19 +131,7 @@
             "version": "",
             "description": "Restores samsung Clock/Alarm app!",
             "branch": "S",
-            "filename": "TW_clock.zip",
-            "Screenshots": [
-            ]
-	},
-            {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "Samsung Kies/Kies Air",
-            "version": "",
-            "description": "Restores samsung Kies and Kies Air support!",
-            "branch": "S",
-            "filename": "TW_Kies support.zip",
+            "filename": "TW_Clocks.zip",
             "Screenshots": [
             ]
 	},
@@ -191,7 +143,79 @@
             "version": "",
             "description": "Restores samsung Email App!",
             "branch": "S",
-            "filename": "TW_Mail.zip",
+            "filename": "TW_Email.zip",
+            "Screenshots": [
+            ]
+	},
+            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Samsung Gallery",
+            "version": "",
+            "description": "Restores samsung 3d Gallery App!",
+            "branch": "S",
+            "filename": "TW_Gallery3D.zip",
+            "Screenshots": [
+            ]
+        },
+            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Samsung Video/Divx Player",
+            "version": "",
+            "description": "Restores samsung Video&Divx player App!",
+            "branch": "S",
+            "filename": "TW_Voice-Commands.zip",
+            "Screenshots": [
+            ]
+        },
+            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Samsung Kies/Kies Air",
+            "version": "",
+            "description": "Restores samsung Kies and Kies Air support!",
+            "branch": "S",
+            "filename": "TW_Kies_Support.zip",
+            "Screenshots": [
+            ]
+	},
+            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Samsung Kies/Kies Air",
+            "version": "",
+            "description": "Restores samsung Kies and Kies Air support, also MotionSettings and MobilePrint!!",
+            "branch": "S",
+            "filename": "TW_Kies_Motion_MobilePrint.zip",
+            "Screenshots": [
+            ]
+	},
+            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Samsung MotionSettings and Mobile Print",
+            "version": "",
+            "description": "Restores samsung MotionSettings and Mobile Print Apps!",
+            "branch": "S",
+            "filename": "MotionSettings_ Mobile Print.zip",
+            "Screenshots": [
+            ]
+        },
+            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Samsung Note and Task Utilities",
+            "version": "",
+            "description": "Restores samsung Notes, PostIt and VoiceRecorder!",
+            "branch": "S",
+            "filename": "TW_Memo_Task.zip",
             "Screenshots": [
             ]
 	},
@@ -203,7 +227,7 @@
             "version": "",
             "description": "Restores samsung MMS/Sms App!",
             "branch": "S",
-            "filename": "TW_MMS.zip",
+            "filename": "TW_SMS_MMS.zip",
             "Screenshots": [
             ]
         },
@@ -223,30 +247,6 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "Samsung SMS/MMS",
-            "version": "",
-            "description": "Restores samsung MMS/Sms App!",
-            "branch": "S",
-            "filename": "TW_MMS.zip",
-            "Screenshots": [
-            ]
-        },
-            {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "Samsung Voice-Commands",
-            "version": "",
-            "description": "Restores samsung Voice-Commands App!",
-            "branch": "S",
-            "filename": "TW_Voice-Commands.zip",
-            "Screenshots": [
-            ]
-        },
-            {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
             "name": "Samsung Video/Photo editors",
             "version": "",
             "description": "Restores samsung VideoEditor and PhotoEditor Apps!",
@@ -259,11 +259,47 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "Samsung MotionSettings and Mobile Print",
+            "name": "Samsung Dive",
             "version": "",
-            "description": "Restores samsung MotionSettings and Mobile Print Apps!",
+            "description": "Restores All account and HUBs!!",
             "branch": "S",
-            "filename": "MotionSettings_ Mobile Print.zip",
+            "filename": "TW_SamsungApps_Hub_Accounts.zip",
+            "Screenshots": [
+            ]
+	},
+           {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Samsung Dive",
+            "version": "",
+            "description": "Restores samsung Dive account!",
+            "branch": "S",
+            "filename": "TW_SamsungDive_Pack.zip",
+            "Screenshots": [
+            ]
+	},
+            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Samsung Screenshot Service",
+            "version": "",
+            "description": "Restores samsung Screenshot Service Shortcut!",
+            "branch": "S",
+            "filename": "TW_ScreenschotService.zip",
+            "Screenshots": [
+            ]
+	},
+            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Samsung Voice-Commands",
+            "version": "",
+            "description": "Restores samsung Voice-Commands App!",
+            "branch": "S",
+            "filename": "TW_Voice-Commands.zip",
             "Screenshots": [
             ]
         },
