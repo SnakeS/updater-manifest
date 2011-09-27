@@ -7,6 +7,17 @@
             "mod": "GT-I9100",
             "board": "GT-I9100",
             "type": "rom",
+            "name": "TheGingerMOD-v0.5",
+            "version": "0.5",
+            "description": "Based on OFFICIAL XWKI4|Multi CSC|Ported ALL the Mods|More fluid (deals with ondemand governor, trying to resolve)|Best Battery Life!|Disables FullBattery Notification&Sound (thx pulser_g2 for Mod and the help! :D)|Updater SU Binary&App to 3.0|NEW AOSP Bootanimation (Android one)|Removed BootSound (AOSP Does not have it! If you want it just place a PowerON.wav file in /system/etc)|Removed Shutdown Animation (Nice but not AOSP!)|Added Sip over 3G|Added (ported) 9 toggles scrollable from jKay! Great work dude!|Redone Toggles icons by ME|Added Longpress on toggle to have corrispondent settings (Again from jKay!)|Added again Longpress Vol+/- to change songs and -now- also FM station (from jKay!)|ADDED TheGINGERMOD UPDATER APP! OTA UPDATES AND EXTRAS!|Placed Updater and Extras in Settings (instead of in drawer)",
+            "branch": "S",
+            "filename": "TheGingerMOD_v0.5_update.zip"
+        },
+        	
+    {   
+            "mod": "GT-I9100",
+            "board": "GT-I9100",
+            "type": "rom",
             "name": "TheGingerMOD-v0.4.1",
             "version": "0.4.1",
             "description": "Testing update blah blah blah blah",
