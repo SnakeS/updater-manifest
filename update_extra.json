@@ -3,6 +3,18 @@
 	"http://dynamic-networks.ch/TheGingerMOD/Extra/"
     ],
     "UpdateList": [
+    	            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "GTalk With VideoChat",
+            "version": "",
+            "description": "Install latest GTalk with VideoChat enabled!! ",
+            "branch": "S",
+            "filename": "GTalk_Video_chat.zip",
+            "Screenshots": [
+            ]
+        },
             {   
             "mod": "*",
             "board": "GT-I9100",
