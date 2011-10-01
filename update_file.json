@@ -3,6 +3,16 @@
 	"http://dynamic-networks.ch/TheGingerMOD/"
     ],
     "UpdateList": [
+    	    {   
+            "mod": "GT-I9100",
+            "board": "GT-I9100",
+            "type": "rom",
+            "name": "TheGingerMOD-v0.5B_HOTFIX-VIDEO-MMS",
+            "version": "0.5",
+            "description": "FIX For Video, Games, GOWeather, MMS Not working"
+            "branch": "S",
+            "filename": "FIX_v0.5_update.zip"
+        },
     {   
             "mod": "GT-I9100",
             "board": "GT-I9100",
