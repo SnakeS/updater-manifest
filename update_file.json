@@ -3,7 +3,18 @@
 	"http://dynamic-networks.ch/TheGingerMOD/"
     ],
     "UpdateList": [
-    	
+
+    {   
+            "mod": "GT-I9100",
+            "board": "GT-I9100",
+            "type": "rom",
+            "name": "v0.5b HOTFIX",
+            "version": "0.5",
+            "description": "HOTFIX| Video|Games|GOWeather",
+            "branch": "S",
+            "filename": "FIX_v0.5_update.zip"
+        },
+
     {   
             "mod": "GT-I9100",
             "board": "GT-I9100",
