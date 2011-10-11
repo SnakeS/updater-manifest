@@ -15,15 +15,51 @@
             "Screenshots": [
             ]
         },
+    	            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "GTalk With VideoChat",
+            "version": "",
+            "description": "Install latest GTalk with VideoChat enabled!! ",
+            "branch": "S",
+            "filename": "GTalk_Video_chat.zip",
+            "Screenshots": [
+            ]
+        },
+    	            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "GTalk With VideoChat",
+            "version": "",
+            "description": "Install latest GTalk with VideoChat enabled!! ",
+            "branch": "S",
+            "filename": "GTalk_Video_chat.zip",
+            "Screenshots": [
+            ]
+        },
+    	            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "GTalk With VideoChat",
+            "version": "",
+            "description": "Install latest GTalk with VideoChat enabled!! ",
+            "branch": "S",
+            "filename": "GTalk_Video_chat.zip",
+            "Screenshots": [
+            ]
+        },
             {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
             "name": "jKay-MOD AOSPTheme",
             "version": "",
-            "description": "Install latest jKay 10.1 with AOSP Theme",
+            "description": "Install latest jKay 11 with AOSP Theme AND BLN Patch Support!!",
             "branch": "S",
-            "filename": "jKay_MOD_Stock_Theme.zip",
+            "filename": "jKay_MOD_Stock_Theme_BLN_Patched.zip",
             "Screenshots": [
             ]
         },
