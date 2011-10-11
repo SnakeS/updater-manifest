@@ -7,11 +7,11 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "GTalk With VideoChat",
+            "name": "ICS Music Player",
             "version": "",
-            "description": "Install latest GTalk with VideoChat enabled!! ",
+            "description": "Install latest ICS Music Player 4.0!!! ",
             "branch": "S",
-            "filename": "GTalk_Video_chat.zip",
+            "filename": "ICS_Music.zip",
             "Screenshots": [
             ]
         },
@@ -19,11 +19,11 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "GTalk With VideoChat",
+            "name": "CM7 Music Player",
             "version": "",
-            "description": "Install latest GTalk with VideoChat enabled!! ",
+            "description": "Install The CyanogenMOD Music Player!! ",
             "branch": "S",
-            "filename": "GTalk_Video_chat.zip",
+            "filename": "CM7_Music.zip",
             "Screenshots": [
             ]
         },
@@ -31,11 +31,11 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "GTalk With VideoChat",
+            "name": "CM7 MMS/Sms app",
             "version": "",
-            "description": "Install latest GTalk with VideoChat enabled!! ",
+            "description": "Install The CyanogenMOD MMS/SMS Modded app!!",
             "branch": "S",
-            "filename": "GTalk_Video_chat.zip",
+            "filename": "CM7_SMS_MMS.zip",
             "Screenshots": [
             ]
         },
