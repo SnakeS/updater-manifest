@@ -14,6 +14,17 @@
             "branch": "S",
             "filename": "prova_update.zip"
         },
+      
+    {   
+            "mod": "GT-I9100",
+            "board": "GT-I9100",
+            "type": "rom",
+            "name": "v0.2",
+            "version": "0.5",
+            "description": "FIX",
+            "branch": "S",
+            "filename": "prova2.zip"
+        },  
 
     ]
 }
