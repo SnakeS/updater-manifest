@@ -15,5 +15,17 @@
             "Screenshots": [
             ]
         },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "AOSP_Batista70_2.2_Universal",
+            "version": "",
+            "description": "Theme AOSP for FoxHound Edition",
+            "branch": "S",
+            "filename": "AOSP_Batista70_2.2_Universal.zip",
+            "Screenshots": [
+            ]
+        },
     ]
 }
