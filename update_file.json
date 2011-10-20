@@ -8,23 +8,12 @@
             "mod": "GT-I9100",
             "board": "GT-I9100",
             "type": "rom",
-            "name": "batista70",
-            "version": "2.4",
-            "description": "Based on OFFICIAL XXKI3|Android 2.3.5||Multi CSC| ",
+            "name": "Test not work",
+            "version": "2.3",
+            "description": "Based on OFFICIAL XXKI8|Android 2.3.5|",
             "branch": "S",
             "filename": "batista70_foxhound_edition_2.3.zip"
         },
-      
-    {   
-            "mod": "GT-I9100",
-            "board": "GT-I9100",
-            "type": "rom",
-            "name": "v0.2",
-            "version": "0.5",
-            "description": "FIX",
-            "branch": "S",
-            "filename": "prova2.zip"
-        },  
-    
+       
     ]
 }
