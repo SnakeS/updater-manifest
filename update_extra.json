@@ -75,5 +75,17 @@
             "Screenshots": ["http://img15.imageshack.us/img15/893/senzaolo1e.png",
             ]
         },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Restore App KI8",
+            "version": "",
+            "description": "Restore App KI8",
+            "branch": "S",
+            "filename": "Restore_App_KI8.zip",
+            "Screenshots": [
+            ]
+        },
     ]
 }
