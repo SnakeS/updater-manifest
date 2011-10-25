@@ -15,6 +15,18 @@
             "Screenshots": ["http://img263.imageshack.us/img263/6660/sc20111020150838.png","http://img833.imageshack.us/img833/2200/sc20111020150413.png","http://img214.imageshack.us/img214/2314/sc20111020150353.png","http://img854.imageshack.us/img854/943/sc20111020150346.png",
             ]
         },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Theme Black FoxHound 2.4",
+            "version": "",
+            "description": "Theme Black FoxHound Edition Proted By Nitroz",
+            "branch": "S",
+            "filename": "Theme Black FoxHound 2.4 universal.zip",
+            "Screenshots": ["http://img89.imageshack.us/img89/5367/unledezr.png",
+            ]
+        },
     	            {   
             "mod": "*",
             "board": "GT-I9100",
