@@ -110,6 +110,17 @@
             "filename": "Theme_Batista70_2.4_Orange_Universal.zip",
             "Screenshots": [,
             ]
+                    {
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "RTL Patch Arabic",
+            "version": "",
+            "description": "RTL Arabic languages",
+            "branch": "S",
+            "filename": "Batista70 FOxHound 2.4 RTL Patch.zip",
+            "Screenshots": [,
+            ]
         },
     ]
 }
