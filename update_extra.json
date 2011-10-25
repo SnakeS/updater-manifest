@@ -99,7 +99,7 @@
             "Screenshots": [
             ]
         },
-                            {   
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -110,6 +110,7 @@
             "filename": "Theme_Batista70_2.4_Orange_Universal.zip",
             "Screenshots": [,
             ]
+         },   
                     {
             "mod": "*",
             "board": "GT-I9100",
