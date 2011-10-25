@@ -87,5 +87,17 @@
             "Screenshots": [
             ]
         },
+                            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Orange Theme",
+            "version": "",
+            "description": "Theme Orange FoxHound 2.4",
+            "branch": "S",
+            "filename": "Theme_Batista70_2.4_Orange_Universal.zip",
+            "Screenshots": [,
+            ]
+        },
     ]
 }
