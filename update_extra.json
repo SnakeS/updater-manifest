@@ -127,7 +127,7 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*Extra* Restore App KI8",
+            "name": "<font color="#0000FF">Restore App ki8</font>",
             "version": "",
             "description": "Restore App KI8",
             "branch": "S",
