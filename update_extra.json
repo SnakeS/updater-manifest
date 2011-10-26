@@ -123,6 +123,18 @@
             "Screenshots": ["http://img15.imageshack.us/img15/893/senzaolo1e.png",
             ]
         },
+                            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Camera Hack",
+            "version": "",
+            "description": "Camera Hack By Criskelo",
+            "branch": "S",
+            "filename": "XXKI4_CameraHack.zip",
+            "Screenshots": [
+            ]
+        }, 
                     {   
             "mod": "*",
             "board": "GT-I9100",
