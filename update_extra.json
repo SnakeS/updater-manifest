@@ -7,7 +7,7 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*THEME* FoxHound Style 2.4 Universal",
+            "name": "*THEME* FoxHound Style 2.4",
             "version": "",
             "description": "Theme FoxHound Edition 2.4",
             "branch": "S",
@@ -132,6 +132,18 @@
             "description": "Camera Hack By Criskelo",
             "branch": "S",
             "filename": "XXKI4_CameraHack.zip",
+            "Screenshots": [
+            ]
+        }, 
+                            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Restore App XXKI4",
+            "version": "",
+            "description": "Restore App KI4 removed",
+            "branch": "S",
+            "filename": "Restore_APP_XXKI4.zip",
             "Screenshots": [
             ]
         }, 
