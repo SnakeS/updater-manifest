@@ -51,6 +51,18 @@
             "Screenshots": ["http://img708.imageshack.us/img708/3484/sc20111026131239.png","http://img560.imageshack.us/img560/2788/sc20111026131234.png","http://img838.imageshack.us/img838/9565/sc20111026131247.png"
             ]
         },
+                            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*THEME* AOSP Universal",
+            "version": "2.4",
+            "description": "Theme AOSP for FoxHound Edition",
+            "branch": "S",
+            "filename": "AOSP_Batista70_2.4_Universal.zip",
+            "Screenshots": ["http://img202.imageshack.us/img202/1859/sc20110929164235.png","http://img20.imageshack.us/img20/8703/sc20110929164246.png","http://img101.imageshack.us/img101/9850/sc20110929164255.png","http://img830.imageshack.us/img830/9766/sc20110929164322.png","http://img11.imageshack.us/img11/4827/sc20110929183310copia.png",
+            ]
+        },
     	            {   
             "mod": "*",
             "board": "GT-I9100",
@@ -61,18 +73,6 @@
             "branch": "S",
             "filename": "Theme_Batista70_FoxHound_2.3_Universal.zip",
             "Screenshots": ["http://img263.imageshack.us/img263/6660/sc20111020150838.png","http://img833.imageshack.us/img833/2200/sc20111020150413.png","http://img214.imageshack.us/img214/2314/sc20111020150353.png","http://img854.imageshack.us/img854/943/sc20111020150346.png",
-            ]
-        },
-                    {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "*THEME* AOSP Universal",
-            "version": "2.4",
-            "description": "Theme AOSP for FoxHound Edition",
-            "branch": "S",
-            "filename": "AOSP_Batista70_2.4_Universal.zip",
-            "Screenshots": ["http://img202.imageshack.us/img202/1859/sc20110929164235.png","http://img20.imageshack.us/img20/8703/sc20110929164246.png","http://img101.imageshack.us/img101/9850/sc20110929164255.png","http://img830.imageshack.us/img830/9766/sc20110929164322.png","http://img11.imageshack.us/img11/4827/sc20110929183310copia.png",
             ]
         },
                     {   
