@@ -43,6 +43,18 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
+            "name": "*THEME* Red Monkey",
+            "version": "2.4",
+            "description": "Theme Red Monkey v2 For FoxHound 2.4 By BananenAffe XDA Port By Me",
+            "branch": "S",
+            "filename": "Red-Monkey-v.2_Port_by_SnakeS_Univerasal.zip",
+            "Screenshots": [
+           ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
             "name": "*THEME* B&W FoxHound",
             "version": "2.4",
             "description": "Theme Black FoxHound Edition Proted By Newton21890",
