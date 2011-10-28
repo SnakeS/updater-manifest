@@ -91,6 +91,18 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
+            "name": "*BATTERY THEME* AndroiD Man",
+            "version": "",
+            "description": "Theme battery Android Man Universal",
+            "branch": "S",
+            "filename": "Battery_Android_Man.zip",
+            "Screenshots": ["",
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
             "name": "*BATTERY THEME* Space",
             "version": "",
             "description": "Theme battery Space",
