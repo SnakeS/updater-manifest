@@ -159,6 +159,18 @@
             "Screenshots": [
             ]
         }, 
+                            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* New Market 3.2",
+            "version": "",
+            "description": "New market 3.2.0",
+            "branch": "S",
+            "filename": "market+3.2.0.zip",
+            "Screenshots": [
+            ]
+        }, 
                     {   
             "mod": "*",
             "board": "GT-I9100",
