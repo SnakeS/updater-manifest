@@ -51,6 +51,18 @@
             "Screenshots": ["http://www.abload.de/img/10q89s.png","http://www.abload.de/img/11wkiq.png","http://www.abload.de/img/30ukr5.png","http://www.abload.de/img/203kbw.png","http://www.abload.de/img/317kqb.png","http://www.abload.de/img/41s8vk.png","http://www.abload.de/img/19xkla.png","http://www.abload.de/img/44ekko.png",
            ]
         },
+                            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*THEME* Gold Edition",
+            "version": "2.4",
+            "description": "Theme Yellow Gold Edition For FoxHound 2.4 By Vertumus XDA Port By Me",
+            "branch": "S",
+            "filename": "Theme_Yellow_Universal_FoxHound.zip",
+            "Screenshots": [
+           ]
+        },
                     {   
             "mod": "*",
             "board": "GT-I9100",
