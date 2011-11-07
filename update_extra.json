@@ -195,7 +195,7 @@
             "Screenshots": ["http://img15.imageshack.us/img15/893/senzaolo1e.png",
             ]
         },
-                            {   
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -207,7 +207,19 @@
             "Screenshots": [
             ]
         }, 
-                            {   
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Remove Script Undervolt",
+            "version": "",
+            "description": "Remove Script Undervolt to solve a possible Bootloop",
+            "branch": "S",
+            "filename": "Remove_Script_Undervolt.zip",
+            "Screenshots": [
+            ]
+        }, 
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
