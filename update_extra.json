@@ -147,7 +147,19 @@
             "Screenshots": ["http://img856.imageshack.us/img856/790/unledbvun.jpg",
             ]
         },
-                                    {   
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*KERNEL* Abyss plus",
+            "version": "1.3",
+            "description": "Kernel Abyss plus By Angelom",
+            "branch": "S",
+            "filename": "AbyssPlusKERNEL13def.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
