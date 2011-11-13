@@ -271,7 +271,7 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*EXTRA* Samsung Restore Voicetogo KJ2 ",
+            "name": "*EXTRA* Samsung Restore Voicetogo KJ2",
             "version": "",
             "description": "COMANDI VOCALI",
             "branch": "S",
@@ -283,7 +283,7 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*EXTRA* Samsung Restore AnalogClock KJ2 ",
+            "name": "*EXTRA* Samsung Restore AnalogClock KJ2",
             "version": "",
             "description": "OROLOGIO",
             "branch": "S",
@@ -295,13 +295,445 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*EXTRA* Samsung Restore Zinio KJ2 ",
+            "name": "*EXTRA* Samsung Restore SevenEngine KJ2",
             "version": "",
-            "description": "E-READER",
+            "description": "COMPONENTE SOCIALHUB",
             "branch": "S",
-            "filename": "KJ2_Zinio.zip",
+            "filename": "KJ2_SevenEngine.zip",
             "Screenshots": [
             ]
         },
- ]
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore VoiceSearch KJ2",
+            "version": "",
+            "description": "RICERCA VOCALE",
+            "branch": "S",
+            "filename": "KJ2_VoiceSearch.zip",
+            "Screenshots": [
+            ]
+        },{   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore SnsAccountTw KJ2",
+            "version": "",
+            "description": "TWITTER FOR SOCIAL HUB",
+            "branch": "S",
+            "filename": "KJ2_SnsAccountTw.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore SnsAccountMs KJ2",
+            "version": "",
+            "description": "MYSPACE FOR SOCIAL HUB",
+            "branch": "S",
+            "filename": "KJ2_SnsAccountMs.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore SnsAccountLi KJ2",
+            "version": "",
+            "description": " LINKEDIN FOR SOCIAL HUB",
+            "branch": "S",
+            "filename": "KJ2_SnsAccountLi.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore SnsAccountFb KJ2",
+            "version": "",
+            "description": "FACEBOOK FOR SOCIAL HUB",
+            "branch": "S",
+            "filename": "KJ2_SnsAccountFb.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Kobo KJ2 ",
+            "version": "",
+            "description": "MAGAZINE READER FOR SOCIAL HUB",
+            "branch": "S",
+            "filename": "KJ2_Kobo.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore wssomacp KJ2",
+            "version": "",
+            "description": "SMS/MMS NOTIFICATION/RECEVING",
+            "branch": "S",
+            "filename": "KJ2_wssomacp.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore WlanTest KJ2",
+            "version": "",
+            "description": "TEST WLAN CONNECTIVITY",
+            "branch": "S",
+            "filename": "KJ2_WlanTest.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Days KJ2",
+            "version": "",
+            "description": "DAYS WIDGET",
+            "branch": "S",
+            "filename": "KJ2_Days.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore wipereceiver KJ2",
+            "version": "",
+            "description": "Remotely wipe data when phone is stolen, part of samsung dive",
+            "branch": "S",
+            "filename": "KJ2_wipereceiver.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Font ChocoEUKor KJ2",
+            "version": "",
+            "description": "EXTRA FONT",
+            "branch": "S",
+            "filename": "KJ2_ChocoEUKor.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Font HelvNeueLT KJ2",
+            "version": "",
+            "description": "EXTRA FONT",
+            "branch": "S",
+            "filename": "KJ2_HelvNeueLT.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore GenieWidget KJ2",
+            "version": "",
+            "description": "News & Weather widget",
+            "branch": "S",
+            "filename": "KJ2_GenieWidget.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore lcdtest KJ2",
+            "version": "",
+            "description": "LCDTEST",
+            "branch": "S",
+            "filename": "KJ2_lcdtest.zip",
+            "Screenshots": [
+            ]
+        },
+                     {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore GameHub KJ2",
+            "version": "",
+            "description": "GAMEHUB",
+            "branch": "S",
+            "filename": "KJ2_GameHub.zip",
+            "Screenshots": [
+            ]
+        },
+                     {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore MusicHub KJ2",
+            "version": "",
+            "description": "SAMSUNG MUSIC HUB",
+            "branch": "S",
+            "filename": "KJ2_MusicHub_U1.zip",
+            "Screenshots": [
+            ]
+        }, 
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore MiniDiary KJ2",
+            "version": "",
+            "description": "MINI DIARY",
+            "branch": "S",
+            "filename": "KJ2_MiniDiary.zip",
+            "Screenshots": [
+            ]
+        }, 
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore FTS-Wifii Sharing KJ2",
+            "version": "",
+            "description": "WIFII SHARING",
+            "branch": "S",
+            "filename": "KJ2_FTS.zip",
+            "Screenshots": [
+            ]
+        }, 
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore DualClock KJ2",
+            "version": "",
+            "description": "DUAL CLOCK",
+            "branch": "S",
+            "filename": "KJ2_DualClock.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore FTM-Wifii Manager Sharing KJ2",
+            "version": "",
+            "description": "Wifi Sharing Manager",
+            "branch": "S",
+            "filename": "KJ2_FTM.zip",
+            "Screenshots": [
+            ]
+        },  
+                   {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* KJ2_Memo.zip",
+            "version": "",
+            "description": "MEMO",
+            "branch": "S",
+            "filename": "KJ2_Memo.zip",
+            "Screenshots": [
+            ]
+        }, 
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore PressReader KJ2",
+            "version": "",
+            "description": "PRESS READER",
+            "branch": "S",
+            "filename": "KJ2_PressReader.zip",
+            "Screenshots": [
+            ]
+        }, 
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Video Editor KJ2",
+            "version": "",
+            "description": "VIDEO EDITOR",
+            "branch": "S",
+            "filename": "KJ2_VideoEditor.zip",
+            "Screenshots": [
+            ]
+        },
+                     {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Component Video Editor KJ2",
+            "version": "",
+            "description": "COMPONENT VIDEO EDITOR",
+            "branch": "S",
+            "filename": "KJ2_TrimApp.zip",
+            "Screenshots": [
+            ]
+        },
+                     {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore SAMSUNG ACCOUNT KJ2",
+            "version": "",
+            "description": "VIDEO EDITOR",
+            "branch": "S",
+            "filename": "KJ2_syncmlds.zip",
+            "Screenshots": [
+            ]
+        },
+                      {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Social Hub KJ2",
+            "version": "",
+            "description": "SOCIAL HUB",
+            "branch": "S",
+            "filename": "KJ2_SocialHub.zip",
+            "Screenshots": [
+            ]
+        },  
+                        {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Protips KJ2",
+            "version": "",
+            "description": "PROTIPS WIDGET",
+            "branch": "S",
+            "filename": "KJ2_Protips.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Readers Hub KJ2",
+            "version": "",
+            "description": "READERS HUB",
+            "branch": "S",
+            "filename": "KJ2_ReadersHub.zip",
+            "Screenshots": [
+            ]
+        },
+                         {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore SamsungIM KJ2",
+            "version": "",
+            "description": "IM APP",
+            "branch": "S",
+            "filename": "KJ2_SamsungIM.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Widget News KJ2",
+            "version": "",
+            "description": "WIDGET NEWS",
+            "branch": "S",
+            "filename": "KJ2_SamsungWidget_News.zip",
+            "Screenshots": [
+            ]
+        },
+
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Widget Yahoo Finance KJ2",
+            "version": "",
+            "description": "Yahoo Finance Widget",
+            "branch": "S",
+            "filename": "KJ2_SamsungWidget_StockClock.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Secret Wallpaper 1 KJ2",
+            "version": "",
+            "description": "SECRET WALLPAPER 1",
+            "branch": "S",
+            "filename": "KJ2_SecretWallpaper1.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Secret Wallpaper 2 KJ2",
+            "version": "",
+            "description": "SECRET WALLPAPER 2",
+            "branch": "S",
+            "filename": "KJ2_SecretWallpaper2.zip",
+            "Screenshots": [
+            ]
+        }, 
+ {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore SnsDisclaimer KJ2",
+            "version": "",
+            "description": "COMPONENT SOCIAL HUB",
+            "branch": "S",
+            "filename": "KJ2_SnsDisclaimer.zip",
+            "Screenshots": [
+            ]
+        }, 
+ {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore SnsProvider KJ2",
+            "version": "",
+            "description": "COMPONENT SOCIAL HUB",
+            "branch": "S",
+            "filename": "KJ2_SnsProvider.zip",
+            "Screenshots": [
+            ]
+        }, 
+ {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Secret Wallpaper 2 KJ2",
+            "version": "",
+            "description": "COMPONENT SOCIAL HUB",
+            "branch": "S",
+            "filename": "KJ2_SnsImageCache.zip",
+            "Screenshots": [
+            ]
+        }, 
+    ]
 }
