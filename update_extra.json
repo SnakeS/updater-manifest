@@ -291,6 +291,17 @@
             "Screenshots": [
             ]
         },   
-
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Samsung Restore Zinio KJ2 ",
+            "version": "",
+            "description": "Zinio",
+            "branch": "S",
+            "filename": "KJ2_Zinio.zip",
+            "Screenshots": [
+            ]
+        },
  ]
 }
