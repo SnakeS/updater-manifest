@@ -267,5 +267,17 @@
             "Screenshots": [
             ]
         }, 
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Restore KJ2 ",
+            "version": "",
+            "description": "Restore App XWKJ2",
+            "branch": "S",
+            "filename": "Restore_KJ2_VoiceToGo.zip",
+            "Screenshots": [
+            ]
+        }, 
     ]
 }
