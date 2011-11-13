@@ -283,7 +283,7 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*EXTRA* KJ2_AnalogClock KJ2 ",
+            "name": "*EXTRA* AnalogClock KJ2 ",
             "version": "",
             "description": "OROLOGIO",
             "branch": "S",
