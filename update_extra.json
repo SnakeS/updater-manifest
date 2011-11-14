@@ -734,6 +734,18 @@
             "filename": "KJ2_SnsImageCache.zip",
             "Screenshots": [
             ]
+        },
+ {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*SAMSUNG RESTORE KJ2* Polaris Office",
+            "version": "",
+            "description": "Polaris Office",
+            "branch": "S",
+            "filename": "KJ2_PolarisOffice.zip",
+            "Screenshots": [
+            ]
         }, 
     ]
 }
