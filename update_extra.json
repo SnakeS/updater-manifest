@@ -747,5 +747,19 @@
             "Screenshots": [
             ]
         }, 
+       },
+ {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*SAMSUNG RESTORE KJ2* AccuWeatherDaemonService",
+            "version": "",
+            "description": "SERVIZIO METEO",
+            "branch": "S",
+            "filename": "KJ2_AccuWeatherDaemonService.zip",
+            "Screenshots": [
+            ]
+        }, 
+
     ]
 }
