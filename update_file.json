@@ -1,6 +1,6 @@
 {
     "MirrorList": [
-	"http://win.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates/"
+	"http://win.italiancustomstyle.com/wordpress/download/"
     ],
     "UpdateList": [
     	
@@ -12,7 +12,7 @@
             "version": "2.5",
             "description": "Based on OFFICIAL XWKJ2|Android 2.3.5|",
             "branch": "E",
-            "filename": "Batista70_FoxHound_Edition_2.5_By_SnakeS.zip"
+            "filename": "2"
         },
        
     ]
