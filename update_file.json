@@ -1,6 +1,6 @@
 {
     "MirrorList": [
-	"http://lnx.italiancustomstyle.com/wordpress/download/"
+	"http://lnx.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates/"
     ],
     "UpdateList": [
     	
@@ -8,11 +8,11 @@
             "mod": "GT-I9100",
             "board": "GT-I9100",
             "type": "rom",
-            "name": "Batista70 2.5 FoxHound",
+            "name": "Batista70 2.6 FoxHound",
             "version": "2.6",
             "description": "Based on OFFICIAL XWKJ3|Android 2.3.5|",
             "branch": "E",
-            "filename": ""
+            "filename": "Batista70_FoxHound_Edition_2.6_By_SnakeS.zip"
         },
        
     ]
