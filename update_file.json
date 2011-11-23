@@ -1,6 +1,6 @@
 {
     "MirrorList": [
-	"http://lnx.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates/"
+	"http://win.italiancustomstyle.com/SnakesCustomRom/contaclick/getfile.php?name="
     ],
     "UpdateList": [
     	
@@ -23,6 +23,16 @@
             "description": "Based on OFFICIAL XWKJ3|Android 2.3.5|",
             "branch": "E",
             "filename": "Batista70_FoxHound_Edition_2.6_By_SnakeS.zip"
+        },
+            {   
+            "mod": "GT-I9100",
+            "board": "GT-I9100",
+            "type": "rom",
+            "name": "prova",
+            "version": "2.6",
+            "description": "Based on OFFICIAL XWKJ3|Android 2.3.5|",
+            "branch": "E",
+            "filename": "prova"
         },
        
     ]
