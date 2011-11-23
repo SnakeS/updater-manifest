@@ -19,6 +19,18 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
+            "name": "*THEME* FoxHound Blue by Zoule",
+            "version": "1.7",
+            "description": "Theme FoxHound Blue by Zoule",
+            "branch": "S",
+            "filename": "Blue+Theme+by+zoule+1.7.zip",
+            "Screenshots": [
+            ]
+        },
+            	            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
             "name": "*THEME* ICS KJ3 BigBangHD",
             "version": "5.0",
             "description": "Theme ICS Ice Cream Sandwich By BigBangHD fox FoxHound 2.6",
