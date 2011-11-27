@@ -807,6 +807,18 @@
             "Screenshots": [
             ]
         }, 
+ {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*RESTORE THEME KJ3*",
+            "version": "",
+            "description": "Restore theme",
+            "branch": "S",
+            "filename": "Restore_theme_FOX.zip",
+            "Screenshots": [
+            ]
+        }, 
 
     ]
 }
