@@ -3,6 +3,18 @@
 	"http://win.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates/Extra"
     ],
     "UpdateList": [
+    	    	            {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*THEME* Maori Style",
+            "version": "1.0",
+            "description": "Theme FoxHound Maori Stile",
+            "branch": "S",
+            "filename": "Maori_Theme_By_SnakeS.zip",
+            "Screenshots": [
+            ]
+        },
     	            {   
             "mod": "*",
             "board": "GT-I9100",
