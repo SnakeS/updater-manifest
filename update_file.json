@@ -4,6 +4,16 @@
     ],
     "UpdateList": [
     	
+    	    	    {   
+            "mod": "GT-I9100",
+            "board": "GT-I9100",
+            "type": "rom",
+            "name": "Batista70 2.8 FoxHound",
+            "version": "2.7",
+            "description": "No Wipe|Based on OFFICIAL XWKK5|Android 2.3.6|",
+            "branch": "E",
+            "filename": "Batista70_FoxHound_Edition_2.8_By_SnakeS.zip"
+        },
     	    {   
             "mod": "GT-I9100",
             "board": "GT-I9100",
