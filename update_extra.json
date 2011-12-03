@@ -9,7 +9,7 @@
             "type": "extra",
             "name": "*THEME* Maori Style",
             "version": "1.0",
-            "description": "Theme FoxHound Maori Stile",
+            "description": "Theme FoxHound Maori Stile for 2.3.6",
             "branch": "S",
             "filename": "Maori_Theme_By_SnakeS.zip",
             "Screenshots": [
@@ -331,6 +331,18 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
+            "name": "*Extra* No Full Screen Image Call",
+            "version": "",
+            "description": "No_Full_Screen_Image_CALL",
+            "branch": "S",
+            "filename": "No_Full_Screen_Image_CALL.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
             "name": "*SAMSUNG RESTORE KJ2/KJ3* Voicetogo",
             "version": "",
             "description": "COMANDI VOCALI",
@@ -374,7 +386,8 @@
             "filename": "KJ2_VoiceSearch.zip",
             "Screenshots": [
             ]
-        },{   
+        },
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -830,7 +843,6 @@
             "filename": "Restore_theme_FOX.zip",
             "Screenshots": [
             ]
-        }, 
-
+        },
     ]
 }
