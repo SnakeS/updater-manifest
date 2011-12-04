@@ -881,6 +881,31 @@
             ]
         },   
 
+                     },
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per Tim"
+            "KDJ": "",
+            "description": "Modem consigliato Per Tim",
+            "branch": "S",
+            "filename": "modemKDJ.zip",
+            "Screenshots": [
+            ]
+        },  
+ 
+                     },
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per Tim"
+            "KDJ": "",
+            "description": "Modem consigliato Per Tim",
+            "branch": "S",
+            "filename": "modem KE4.zip",
+            "Screenshots": [
+            ]
+        }, 
 
- ]
+]
 }
