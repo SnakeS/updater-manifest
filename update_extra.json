@@ -772,7 +772,7 @@
             "Screenshots": [
             ]
         }, 
- {   
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -784,7 +784,7 @@
             "Screenshots": [
             ]
         }, 
- {   
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -796,7 +796,7 @@
             "Screenshots": [
             ]
         }, 
- {   
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -808,7 +808,7 @@
             "Screenshots": [
             ]
         },
- {   
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -820,7 +820,7 @@
             "Screenshots": [
             ]
         }, 
- {   
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -832,7 +832,7 @@
             "Screenshots": [
             ]
         }, 
- {   
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -844,7 +844,7 @@
             "Screenshots": [
             ]
         },
-
+                    {
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -856,6 +856,7 @@
             "Screenshots": [
             ]
         },
+                     {
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -868,7 +869,7 @@
             ]
         }, 
                   
-                     },
+                    {
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -881,7 +882,7 @@
             ]
         },   
 
-                     },
+                     {
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -894,7 +895,7 @@
             ]
         },  
  
-                     }
+                    {
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
