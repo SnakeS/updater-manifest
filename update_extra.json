@@ -880,9 +880,8 @@
             "filename": "ModemKE7.zip",
             "Screenshots": [
             ]
-        },   
-
-                     {
+        },  
+{
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -894,8 +893,7 @@
             "Screenshots": [
             ]
         },  
- 
-                    {
+                     {
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -943,8 +941,7 @@
             "Screenshots": [
             ]
         }, 
- 
-                      {
+                       {
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -956,6 +953,5 @@
             "Screenshots": [
             ]
         },
-
 ]
 }
