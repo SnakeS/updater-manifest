@@ -866,6 +866,19 @@
             "filename": "modemKI4.zip",
             "Screenshots": [
             ]
+        }, 
+                  
+                     },
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per Tim"
+            "KE7": "",
+            "description": "Modem consigliato Per Tim",
+            "branch": "S",
+            "filename": "ModemKE7.zip",
+            "Screenshots": [
+            ]
         },   
 
 
