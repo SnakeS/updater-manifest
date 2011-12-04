@@ -859,9 +859,9 @@
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*MODEM* Consigliato per Vodafone"
+            "name": "*MODEM* Consigliato per Tim e Vodafone"
             "KI4": "",
-            "description": "Modem consigliato Per Vodafone italia",
+            "description": "Modem consigliato Per Tim e Vodafone italia",
             "branch": "S",
             "filename": "modemKI4.zip",
             "Screenshots": [
