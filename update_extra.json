@@ -903,11 +903,22 @@
             "KE4": "",
             "description": "Modem consigliato Per Tim",
             "branch": "S",
-            "filename": "modem KE4.zip",
+            "filename": "modemKE4.zip",
             "Screenshots": [
             ]
         }, 
- 
+                   {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per Tim"
+            "NEKF2": "",
+            "description": "Modem consigliato Per Tim",
+            "branch": "S",
+            "filename": "modemNEKF2.zip",
+            "Screenshots": [
+            ]
+        }, 
 
 ]
 }
