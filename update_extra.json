@@ -849,7 +849,7 @@
             "board": "GT-I9100",
             "type": "extra",
             "name": "*MODEM* Consigliato per Vodafone",
-            "KI1": "",
+            "version": "KI1",
             "description": "Modem consigliato Per Vodafone italia",
             "branch": "S",
             "filename": "modemKI1.zip",
