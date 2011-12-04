@@ -911,9 +911,9 @@
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*MODEM* Consigliato per Tim"
+            "name": "*MODEM* Consigliato per TRE"
             "NEKF2": "",
-            "description": "Modem consigliato Per Tim",
+            "description": "Modem consigliato Per TRE",
             "branch": "S",
             "filename": "modemNEKF2.zip",
             "Screenshots": [
