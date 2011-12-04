@@ -860,7 +860,7 @@
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*MODEM* Consigliato per Tim e Vodafone"
+            "name": "*MODEM* Consigliato per Tim e Vodafone",
             "KI4": "",
             "description": "Modem consigliato Per Tim e Vodafone italia",
             "branch": "S",
@@ -873,7 +873,7 @@
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*MODEM* Consigliato per Tim"
+            "name": "*MODEM* Consigliato per Tim",
             "KE7": "",
             "description": "Modem consigliato Per Tim",
             "branch": "S",
@@ -886,7 +886,7 @@
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*MODEM* Consigliato per Tim"
+            "name": "*MODEM* Consigliato per Tim",
             "KDJ": "",
             "description": "Modem consigliato Per Tim",
             "branch": "S",
@@ -899,7 +899,7 @@
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*MODEM* Consigliato per Tim"
+            "name": "*MODEM* Consigliato per Tim",
             "KE4": "",
             "description": "Modem consigliato Per Tim",
             "branch": "S",
@@ -911,7 +911,7 @@
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*MODEM* Consigliato per TRE"
+            "name": "*MODEM* Consigliato per TRE",
             "NEKF2": "",
             "description": "Modem consigliato Per TRE",
             "branch": "S",
@@ -923,7 +923,7 @@
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*MODEM* Consigliato per TRE"
+            "name": "*MODEM* Consigliato per TRE",
             "KI3": "",
             "description": "Modem consigliato Per TRE",
             "branch": "S",
@@ -935,7 +935,7 @@
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*MODEM* "
+            "name": "*MODEM* ",
             "KH3": "",
             "description": "",
             "branch": "S",
@@ -948,7 +948,7 @@
              "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*MODEM* "
+            "name": "*MODEM* ",
             "KG3": "",
             "description": "",
             "branch": "S",
