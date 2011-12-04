@@ -856,5 +856,18 @@
             "Screenshots": [
             ]
         },
-    ]
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per Vodafone"
+            "KI4": "",
+            "description": "Modem consigliato Per Vodafone italia",
+            "branch": "S",
+            "filename": "modemKI4.zip",
+            "Screenshots": [
+            ]
+        },   
+
+
+ ]
 }
