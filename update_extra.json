@@ -919,6 +919,43 @@
             "Screenshots": [
             ]
         }, 
+                    {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per TRE"
+            "KI3": "",
+            "description": "Modem consigliato Per TRE",
+            "branch": "S",
+            "filename": "modemKI3.zip",
+            "Screenshots": [
+            ]
+        }, 
+                    {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* "
+            "KH3": "",
+            "description": "",
+            "branch": "S",
+            "filename": "ModemKH3.zip",
+            "Screenshots": [
+            ]
+        }, 
+ 
+                      {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* "
+            "KG3": "",
+            "description": "",
+            "branch": "S",
+            "filename": "ModemKG3.zip",
+            "Screenshots": [
+            ]
+        }, 
 
 ]
 }
