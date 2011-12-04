@@ -856,6 +856,104 @@
             "Screenshots": [
             ]
         },
+      {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per Tim e Vodafone",
+            "version": "KI4",
+            "description": "Modem consigliato Per Tim e Vodafone italia",
+            "branch": "S",
+            "filename": "modemKI4.zip",
+            "Screenshots": [
+            ]
+        }, 
+                          {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per Tim",
+            "version": "KE7",
+            "description": "Modem consigliato Per Tim",
+            "branch": "S",
+            "filename": "ModemKE7.zip",
+            "Screenshots": [
+            ]
+        },  
+                     {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per Tim",
+            "version": "KDJ",
+            "description": "Modem consigliato Per Tim",
+            "branch": "S",
+            "filename": "modemKDJ.zip",
+            "Screenshots": [
+            ]
+        },  
+                     {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per Tim",
+            "version": "KE4",
+            "description": "Modem consigliato Per Tim",
+            "branch": "S",
+            "filename": "modemKE4.zip",
+            "Screenshots": [
+            ]
+        }, 
+                   {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per TRE",
+            "version": "NEKF2",
+            "description": "Modem consigliato Per TRE",
+            "branch": "S",
+            "filename": "modemNEKF2.zip",
+            "Screenshots": [
+            ]
+        }, 
+                    {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per TRE",
+            "version": "KI3",
+            "description": "Modem consigliato Per TRE",
+            "branch": "S",
+            "filename": "modemKI3.zip",
+            "Screenshots": [
+            ]
+        }, 
+                    {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* ",
+            "version": "KH3",
+            "description": "KH3",
+            "branch": "S",
+            "filename": "ModemKH3.zip",
+            "Screenshots": [
+            ]
+        }, 
+                       {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* ",
+            "version": "Kg3",
+            "description": "Kg3",
+            "branch": "S",
+            "filename": "ModemKG3.zip",
+            "Screenshots": [
+            ]
+        },
+            
+
                    
 ]
 }
