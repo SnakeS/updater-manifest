@@ -147,6 +147,18 @@
             "Screenshots": ["http://img263.imageshack.us/img263/6660/sc20111020150838.png","http://img833.imageshack.us/img833/2200/sc20111020150413.png","http://img214.imageshack.us/img214/2314/sc20111020150353.png","http://img854.imageshack.us/img854/943/sc20111020150346.png",
             ]
         },
+                                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*THEME* Restore FoxHound",
+            "version": "2.8",
+            "description": "Theme for restore originale theme FoxHound 2.8",
+            "branch": "S",
+            "filename": "Restore_Teme_FoxHound_2.8.zip",
+            "Screenshots": [
+           ]
+        },
                     {   
             "mod": "*",
             "board": "GT-I9100",
