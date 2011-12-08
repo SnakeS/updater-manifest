@@ -3,6 +3,37 @@
 	"http://win.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates/Extra"
     ],
     "UpdateList": [
+
+{   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "URGENTE SELEZIONARE SCREENSHOTS E LEGGERE (Italiano)",
+            "version": "1.0",
+            "description": "4Seasons, la rom del team di Snakes",
+            "branch": "S",
+            "filename": "nopachetto.zip",
+            "Screenshots": ["www.italiancustomstyle.com/immagini/Fox/saluto-Ita.png"
+            ]
+        },
+  
+
+
+
+ {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "URGENT PLEASE SELECT AND SCREENSHOTS (English)",
+            "version": "1.0",
+            "description": "4Seasons, la rom del team di Snakes",
+            "branch": "S",
+            "filename": "nopachetto.zip",
+            "Screenshots": ["www.italiancustomstyle.com/immagini/Fox/Saluti_inglese.png"
+            ]
+        },
+
+
     	    	            {   
             "mod": "*",
             "board": "GT-I9100",
