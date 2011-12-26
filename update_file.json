@@ -1,31 +1,16 @@
-{
-    "MirrorList": [
-	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates/"
-    ],
-    "UpdateList": [
-    	
-                      {   
-            "mod": "GT-I9100",
-            "board": "GT-I9100",
-            "type": "rom",
-            "name": "New_4Seasons",
-            "version": "1.0",
-            "description": "Wipe|Based on OFFICIAL XWKK5|Android 2.3.6|",
-            "branch": "E",
-            "filename": "4Seasons2.3.6.zip"
-        },
-    	    
-
-    	    	    {   
-            "mod": "GT-I9100",
-            "board": "GT-I9100",
-            "type": "rom",
-            "name": "Old_Batista70 2.8 FoxHound",
-            "version": "2.7",
-            "description": "No Wipe|Based on OFFICIAL XWKK5|Android 2.3.6|",
-            "branch": "E",
-            "filename": "Batista70_FoxHound_Edition_2.8_By_SnakeS.zip"
-        },
-      
-    ]
+{    "MirrorList": [	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/Home/wp-content/ICSteam/Extra/"    ], 
+"UpdateList": [    	   
+	{               
+		"mod": "GT-I9100",            
+		"board": "GT-I9100",            
+		"type": "rom",           
+		"name": "4Seasons 1.1b",           
+		"version": "b1.1",           
+		"description": "Based on OFFICIAL XWKK5 | Android 2.3.6|",           
+		"branch": "S",           
+		"filename": "4Seasons1.1b.zip"        
+		
+	},          
+	]
+	
 }
