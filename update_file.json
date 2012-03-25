@@ -1,5 +1,17 @@
 {    "MirrorList": [	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/Home/wp-content/ICSteam/Extra/"    ], 
-"UpdateList": [    	   
+"UpdateList": [  
+	    	    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*THEME* Maori Style",
+            "version": "1.0",
+            "description": "Theme FoxHound Maori Stile for 2.3.6",
+            "branch": "S",
+            "filename": "Maori_Theme_By_SnakeS.zip",
+            "Screenshots": [
+            ]
+        },
         
 	]
 	
