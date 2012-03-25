@@ -1,12 +1,19 @@
 {
     "MirrorList": [
-	"
+	"http://win.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates"
     ],
     "UpdateList": [
 
-
-
+    	    	    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "rom",
+            "name": "test",
+            "version": "1.0",
+            "description": "test",
+            "branch": "S",
+            "filename": "Batista70_FoxHound_Zoule_Theme_Edition_3.0_By_SnakeS.zip"
+        },
         
-      ]
-	
+     ]
 }
