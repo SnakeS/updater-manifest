@@ -1,4 +1,5 @@
-{    "MirrorList": [	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/Home/wp-content/ICSteam/Extra/"    ], 
+{    
+	"MirrorList": [	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates/"    ], 
 "UpdateList": [  
 	    	    {   
             "mod": "*",
@@ -8,7 +9,7 @@
             "version": "1.0",
             "description": "Theme FoxHound Maori Stile for 2.3.6",
             "branch": "S",
-            "filename": "Maori_Theme_By_SnakeS.zip",
+            "filename": "Batista70_FoxHound_Zoule_Theme_Edition_3.0_By_SnakeS.zip",
             "Screenshots": [
             ]
         },
