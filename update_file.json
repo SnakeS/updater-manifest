@@ -1,19 +1,10 @@
 {
     "MirrorList": [
-	"http://dynamic-networks.ch/TheGingerMOD/"
+	"
     ],
     "UpdateList": [
 
-    {   
-            "mod": "GT-I9100",
-            "board": "GT-I9100",
-            "type": "rom",
-            "name": "TheGingerMOD-v0.8.5",
-            "version": "0.8.5",
-            "description": "Based on OFFICIAL XWKL1|Android 2.3.6|Multi CSC|Upgraded to XWKL1|Included latest XXLPH modem|General clean up|Inserted Latest gApps for Gingerbread|Fixed wifi wakelocks|Fixed wifi Hotspot|Fixed wrong icons for Tethering|Included Latest jkay 13.5 (latest one usable for KL1)|Removed Cyanogen DSP Manager|Included MusicFX|Included Latest BrowserMOD With Fullscreen, 5 user agents and settable fontsize|General optizimation for battery and performances|Better memory Handling|Tweaked to have max performance specifically for Abyss kenrel and SiyahKernel",
-            "branch": "S",
-            "filename": "OTA-XWKL1_incremental_update.zip"
-        },
+
 
         
       ]
