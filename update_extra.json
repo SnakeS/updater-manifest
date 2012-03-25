@@ -4,37 +4,7 @@
     ],
     "UpdateList": [
 
-{   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "URGENTE SELEZIONARE SCREENSHOTS E LEGGERE (Italiano)",
-            "version": "1.0",
-            "description": "4Seasons, la rom del team di Snakes",
-            "branch": "S",
-            "filename": "nopachetto.zip",
-            "Screenshots": ["http://i1118.photobucket.com/albums/k616/guidox79/saluto-ota.png",
-            ]
-        },
-  
-
-
-
- {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "URGENT PLEASE SELECT AND SCREENSHOTS (English)",
-            "version": "1.0",
-            "description": "4Seasons, la rom del team di Snakes",
-            "branch": "S",
-            "filename": "nopachetto.zip",
-            "Screenshots": ["http://i1118.photobucket.com/albums/k616/guidox79/salutiRAffo-inglesev2.png",
-            ]
-        },
-
-
-    	    	            {   
+    	    	    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
