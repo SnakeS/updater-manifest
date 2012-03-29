@@ -1,6 +1,6 @@
 {
     "MirrorList": [
-	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates"
+	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSII"
     ],
     "UpdateList": [
 
@@ -9,10 +9,10 @@
             "board": "smdk4210",
             "type": "rom",
             "name": "test",
-            "version": "1.0",
-            "description": "test",
+            "version": "0.8",
+            "description": "FoxHound 0.8",
             "branch": "S",
-            "filename": "Batista70_FoxHound_Zoule_Theme_Edition_3.0_By_SnakeS.zip"
+            "filename": "FoxHound_0.8_LP3_ICS_GSII_By_SnakeS_part1.zip"
         },
         
      ]
