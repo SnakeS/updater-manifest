@@ -6,10 +6,10 @@
 
     	    	    {   
             "mod": "GT-I9100",
-            "board": "tuna",
+            "board": "smdk4210",
             "type": "rom",
             "name": "test",
-            "version": "7.0",
+            "version": "1.0",
             "description": "test",
             "branch": "S",
             "filename": "Batista70_FoxHound_Zoule_Theme_Edition_3.0_By_SnakeS.zip"
