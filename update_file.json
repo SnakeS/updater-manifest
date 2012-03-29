@@ -6,7 +6,7 @@
 
     	    	    {   
             "mod": "GT-I9100",
-            "board": "GT-I9100",
+            "board": "smdk4210",
             "type": "rom",
             "name": "test",
             "version": "1.0",
