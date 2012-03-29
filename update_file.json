@@ -6,7 +6,7 @@
 
     	    	    {   
             "mod": "GT-I9100",
-            "board": "tuna",
+            "board": "smdk4210",
             "type": "rom",
             "name": "FoxHound 0.8",
             "version": "0.8",
