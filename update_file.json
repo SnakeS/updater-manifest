@@ -6,9 +6,9 @@
 
     	    	    {   
             "mod": "GT-I9100",
-            "board": "tuna",
+            "board": "smdk4210",
             "type": "rom",
-            "name": "test",
+            "name": "lox è scemo",
             "version": "1.0",
             "description": "test",
             "branch": "S",
