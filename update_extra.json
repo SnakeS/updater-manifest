@@ -6,7 +6,7 @@
 
     	    	    {   
             "mod": "*",
-            "board": "GT-I9100",
+            "board": "tuna",
             "type": "extra",
             "name": "*THEME* Maori Style",
             "version": "1.0",
