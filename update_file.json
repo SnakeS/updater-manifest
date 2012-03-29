@@ -8,7 +8,7 @@
             "mod": "GT-I9100",
             "board": "smdk4210",
             "type": "rom",
-            "name": "lox è scemo",
+            "name": "test",
             "version": "1.0",
             "description": "test",
             "branch": "S",
