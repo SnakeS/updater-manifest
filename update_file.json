@@ -1,12 +1,12 @@
 {
     "MirrorList": [
-	"https://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates"
+	"http://www.italiancustomstyle.com/Home/?page_id=451"
     ],
     "UpdateList": [
 
     	    	    {   
             "mod": "GT-I9100",
-            "board": "smdk4210",
+            "board": "tuna",
             "type": "rom",
             "name": "test",
             "version": "1.0",
