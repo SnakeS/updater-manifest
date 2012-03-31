@@ -19,7 +19,7 @@
         },
     	    	    {   
             "mod": "*",
-            "board": "tuna",
+            "board": "smdk4210",
             "type": "extra",
             "name": "*EXTRA* Beats Audio",
             "version": "1.0",
