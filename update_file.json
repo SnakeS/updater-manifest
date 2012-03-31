@@ -5,16 +5,6 @@
     ],
     "UpdateList": [
 
-    	    	    {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound 0.8",
-            "version": "0.8",
-            "description": "FoxHound 0.8 Ics",
-            "branch": "S",
-            "filename": "FoxHound_0.8_LP3_ICS_GSII_By_SnakeS_part1.zip"
-        },
             	   {   
             "mod": "GT-I9100",
             "board": "smdk4210",
@@ -25,6 +15,17 @@
             "branch": "S",
             "filename": "FoxHound_0.9_LP3_ICS_GSII_By_SnakeS.zip"
         },
+    	    	    {   
+            "mod": "GT-I9100",
+            "board": "smdk4210",
+            "type": "rom",
+            "name": "FoxHound 0.8",
+            "version": "0.8",
+            "description": "FoxHound 0.8 Ics",
+            "branch": "S",
+            "filename": "FoxHound_0.8_LP3_ICS_GSII_By_SnakeS_part1.zip"
+        },
+
                      {   
             "mod": "Nexus",
             "board": "tuna",
