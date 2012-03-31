@@ -29,6 +29,17 @@
             "Screenshots": [
             ]
         },
-                     
+                    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "*EXTRA* Abyss Kernel",
+            "version": "1.2b1",
+            "description": "Abyss kernel By Angelom for FoxHound",
+            "branch": "S",
+            "filename": "AbyssICSkernel12b1.zip",
+            "Screenshots": [
+            ]
+        },
     ]
 }
