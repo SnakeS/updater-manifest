@@ -10,9 +10,21 @@
             "type": "extra",
             "name": "*EXTRA* AOSP Package",
             "version": "1.0",
-            "description": "AOSP package fro FoxHound",
+            "description": "AOSP package for FoxHound",
             "branch": "S",
             "filename": "AOSP_package_fox_FoxHound.zip",
+            "Screenshots": [
+            ]
+        },
+    	    	    {   
+            "mod": "*",
+            "board": "tuna",
+            "type": "extra",
+            "name": "*EXTRA* Beats Audio",
+            "version": "1.0",
+            "description": "Beats Audio for FoxHound",
+            "branch": "S",
+            "filename": "Beats audio SGSII.zip",
             "Screenshots": [
             ]
         },
