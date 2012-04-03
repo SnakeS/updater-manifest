@@ -11,7 +11,7 @@
             "type": "rom",
             "name": "FoxHound 1.0",
             "version": "0.9",
-            "description": "Fix market pay apk,Fix samsung app update,Remove flashplayer from system,Remove DX battery apk,Insert TW caledar wirget,Insert digiatalclok ,New theme for sms samsung (style aosp take from XDA),New Font,Increase speed rom (app_process and system_server from 4.0.4),New SystemUI style (by Sboulema),New kernel NEAK 2.0.1 and new Logo,New Modem LPE,Insert Power Menù with Recovery and Download,Fix Decrease home button lag ",
+            "description": "Fix market pay apk","Fix samsung app update","Remove flashplayer from system","Remove DX battery apk","Insert TW caledar wirget","Insert digiatalclok ","New theme for sms samsung (style aosp take from XDA)","New Font","Increase speed rom (app_process and system_server from 4.0.4)","New SystemUI style (by Sboulema)","New kernel NEAK 2.0.1 and new Logo","New Modem LPE","Insert Power Menù with Recovery and Download","Fix Decrease home button lag ",
             "branch": "S",
             "filename": "FoxHound_1.0_LP3_ICS_GSII_By_SnakeS.zip"
         },
