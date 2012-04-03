@@ -9,8 +9,20 @@
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*EXTRA* AOSP Package",
+            "name": "*EXTRA* AOSP Package 1.0",
             "version": "1.0",
+            "description": "AOSP package for FoxHound",
+            "branch": "S",
+            "filename": "AOSP_package_fox_FoxHound_1.0.zip",
+            "Screenshots": [
+            ]
+        },
+    	    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "*EXTRA* AOSP Package",
+            "version": "0.9",
             "description": "AOSP package for FoxHound",
             "branch": "S",
             "filename": "AOSP_package_fox_FoxHound.zip",
