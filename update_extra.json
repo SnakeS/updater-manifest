@@ -9,6 +9,18 @@
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
+            "name": "*EXTRA* AOSP Package otacon",
+            "version": "1.0",
+            "description": "AOSP contact,dialer,clock,filemanager,browser",
+            "branch": "S",
+            "filename": "AOSP_Package_Otacon.zip",
+            "Screenshots": [
+            ]
+        },
+    	    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
             "name": "*EXTRA* AOSP Package 1.0",
             "version": "1.0",
             "description": "AOSP package for FoxHound",
