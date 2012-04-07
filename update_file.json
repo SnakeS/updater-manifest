@@ -4,7 +4,17 @@
 	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus"
     ],
     "UpdateList": [
-    	
+    	    	
+    	    	            	   {   
+            "mod": "GT-I9100",
+            "board": "smdk4210",
+            "type": "rom",
+            "name": "FoxHound Otacon V1",
+            "version": "1.0",
+            "description": "FoxHound Otacon V1",
+            "branch": "S",
+            "filename": "FoxHound_Otacon_V1_LP4_ICS_GSII_By_SnakeS.zip"
+        },
     	    	            	   {   
             "mod": "GT-I9100",
             "board": "smdk4210",
