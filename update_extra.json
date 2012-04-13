@@ -17,6 +17,18 @@
             "Screenshots": [
             ]
         },
+                    	    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "*EXTRA* Phone Small Call",
+            "version": "1.0",
+            "description": "Phone stock",
+            "branch": "S",
+            "filename": "Phone_Small_image.zip",
+            "Screenshots": [
+            ]
+        },
             	    	    {   
             "mod": "*",
             "board": "smdk4210",
