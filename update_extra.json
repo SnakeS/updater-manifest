@@ -17,6 +17,18 @@
             "Screenshots": [
             ]
         },
+            	    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "*EXTRA* Keyboard Samsung",
+            "version": "1.0",
+            "description": "Keyboard",
+            "branch": "S",
+            "filename": "AxT9IME.zip",
+            "Screenshots": [
+            ]
+        },
 
     	    	    {   
             "mod": "*",
