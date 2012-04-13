@@ -9,7 +9,7 @@
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*EXTRA* AOSP Package otacon",
+            "name": "*EXTRA* AOSP PsychoMantis/Otacon",
             "version": "1.0",
             "description": "AOSP contact,dialer,clock,filemanager,browser",
             "branch": "S",
