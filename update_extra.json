@@ -17,18 +17,7 @@
             "Screenshots": [
             ]
         },
-    	    	    {   
-            "mod": "*",
-            "board": "smdk4210",
-            "type": "extra",
-            "name": "*EXTRA* AOSP Package 1.0",
-            "version": "1.0",
-            "description": "AOSP package for FoxHound",
-            "branch": "S",
-            "filename": "AOSP_package_fox_FoxHound_1.0.zip",
-            "Screenshots": [
-            ]
-        },
+
     	    	    {   
             "mod": "*",
             "board": "smdk4210",
@@ -53,25 +42,14 @@
             "Screenshots": [
             ]
         },
-                    {   
-            "mod": "*",
-            "board": "smdk4210",
-            "type": "extra",
-            "name": "*EXTRA* Abyss Kernel",
-            "version": "1.6",
-            "description": "Abyss kernel By Angelom for FoxHound",
-            "branch": "S",
-            "filename": "AbyssICSkernel16.zip",
-            "Screenshots": [
-            ]
-        },
+
             	    {   
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
             "name": "*THEME* ICS REVOLUTION THEME",
             "version": "1.0",
-            "description": "ICS REVOLUTION THEME By ToxicOne",
+            "description": "ICS REVOLUTION THEME By ToxicOne for 0.9",
             "branch": "S",
             "filename": "ICS_Revolution_Theme.zip",
             "Screenshots": ["http://www.mediafire.com/convkey/c5a2/ayq3b3by9z56z6b5g.jpg","http://www.mediafire.com/convkey/809d/bocq99ldqz457pf5g.jpg","http://www.mediafire.com/convkey/f7a1/5aczdv42obszbi35g.jpg","http://www.mediafire.com/convkey/c20f/5wtrt9xy0u84m2w5g.jpg","http://www.mediafire.com/convkey/579c/wrvbv12rdwyvb5r5g.jpg"
