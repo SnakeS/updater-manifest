@@ -5,6 +5,16 @@
     ],
     "UpdateList": [
     	    	
+    	      	   {   
+            "mod": "GT-I9100",
+            "board": "smdk4210",
+            "type": "rom",
+            "name": "FoxHound PsychoMantis",
+            "version": "1.0",
+            "description": "FoxHound PsychoMantis",
+            "branch": "S",
+            "filename": "FoxHound_PsychoMantis_LP7_ICS_GSII_By_SnakeS.zip"
+        },
     	    	            	   {   
             "mod": "GT-I9100",
             "board": "smdk4210",
