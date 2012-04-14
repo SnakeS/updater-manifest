@@ -21,6 +21,18 @@
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
+            "name": "*EXTRA* Stock LockScreen",
+            "version": "1.0",
+            "description": "Stock LockScreen Samsung By ApriliaM3",
+            "branch": "S",
+            "filename": "Samsung_Clear_Lockscreen.zip",
+            "Screenshots": [
+            ]
+        },
+            	    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
             "name": "*EXTRA* Contacts no Trasparent",
             "version": "1.0",
             "description": "",
