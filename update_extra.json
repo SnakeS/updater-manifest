@@ -4,7 +4,18 @@
 	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSII/Extra"
     ],
     "UpdateList": [
-
+    	   	    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "*KERNEL* Siyah-v3.1rc3-Foxhound",
+            "version": "1.0",
+            "description": "New Kernel Siyah By Gokhanmoral",
+            "branch": "S",
+            "filename": "Siyah-v3.1rc3-Foxhound.zip",
+            "Screenshots": [
+            ]
+        },
     	    	    {   
             "mod": "*",
             "board": "smdk4210",
