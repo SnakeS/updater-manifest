@@ -65,6 +65,18 @@
             "Screenshots": [
             ]
         },
+                            	    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "*EXTRA* Maps",
+            "version": "1.0",
+            "description": "Maps",
+            "branch": "S",
+            "filename": "Maps_FoxHound.zip",
+            "Screenshots": [
+            ]
+        },
             	    	    {   
             "mod": "*",
             "board": "smdk4210",
