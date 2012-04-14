@@ -17,6 +17,18 @@
             "Screenshots": [
             ]
         },
+            	    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "*EXTRA* Contacts no Trasparent",
+            "version": "1.0",
+            "description": "",
+            "branch": "S",
+            "filename": "Contacts_No_Trasparent.zip",
+            "Screenshots": [
+            ]
+        },
                     	    	    {   
             "mod": "*",
             "board": "smdk4210",
