@@ -138,5 +138,17 @@
             "Screenshots": ["http://www.mediafire.com/convkey/c5a2/ayq3b3by9z56z6b5g.jpg","http://www.mediafire.com/convkey/809d/bocq99ldqz457pf5g.jpg","http://www.mediafire.com/convkey/f7a1/5aczdv42obszbi35g.jpg","http://www.mediafire.com/convkey/c20f/5wtrt9xy0u84m2w5g.jpg","http://www.mediafire.com/convkey/579c/wrvbv12rdwyvb5r5g.jpg"
             ]
         },
+            	    	    {   
+            "mod": "*",
+            "board": "tuna",
+            "type": "extra",
+            "name": "*EXTRA* Host File",
+            "version": "1.0",
+            "description": "Host Stock ",
+            "branch": "S",
+            "filename": "Host.zip",
+            "Screenshots": [
+            ]
+        },
     ]
 }
