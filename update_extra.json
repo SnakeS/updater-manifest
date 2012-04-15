@@ -114,6 +114,18 @@
             "Screenshots": [
             ]
         },
+                    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "*THEME* Black AOSP Gapp",
+            "version": "1.0",
+            "description": "FOXHOUND.PSYCHOMANTIS.BLACK.THEMED.AOSP.APPS By ToxicOne",
+            "branch": "S",
+            "filename": "FOXHOUND.PSYCHOMANTIS.BLACK.THEMED.AOSP.APPS_signed.zip",
+            "Screenshots": [
+            ]
+        },
             	    {   
             "mod": "*",
             "board": "smdk4210",
