@@ -5,96 +5,59 @@
 	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus/Extra"
     ],
     "UpdateList": [
-    	   	    	    {   
-            "mod": "*",
-            "board": "smdk4210",
-            "type": "extra",
-            "name": "*KERNEL* Siyah-v3.1rc3-Foxhound",
-            "version": "1.0",
-            "description": "New Kernel Siyah By Gokhanmoral",
-            "branch": "S",
-            "filename": "Siyah-v3.1rc3-Foxhound.zip",
-            "Screenshots": [
-            ]
-        },
     	    	    {   
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*EXTRA* AOSP PsychoMantis/Otacon",
-            "version": "1.0",
+            "name": "|EX| AOSP PsychoMantis v2/Otacon",
+            "version": "+",
             "description": "AOSP contact,dialer,clock,filemanager,browser",
             "branch": "S",
             "filename": "AOSP_Package_Otacon.zip",
             "Screenshots": [
             ]
         },
-            	    	    {   
+           	    {   
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*EXTRA* Stock LockScreen",
-            "version": "1.0",
-            "description": "Stock LockScreen Samsung By ApriliaM3",
+            "name": "|EX| Stock LockScreen",
+            "version": "*",
+            "description": "Stock LockScreen Samsung fox FoxHound PsychoMantis By ApriliaM3",
             "branch": "S",
             "filename": "Samsung_Clear_Lockscreen.zip",
             "Screenshots": [
             ]
         },
-            	    	    {   
+                    {   
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*EXTRA* Contacts no Trasparent",
-            "version": "1.0",
-            "description": "",
-            "branch": "S",
-            "filename": "Contacts_No_Trasparent.zip",
-            "Screenshots": [
-            ]
-        },
-                    	    	    {   
-            "mod": "*",
-            "board": "smdk4210",
-            "type": "extra",
-            "name": "*EXTRA* Phone Small Call",
-            "version": "1.0",
+            "name": "|EX| Phone Small Call",
+            "version": "*",
             "description": "Phone stock",
             "branch": "S",
             "filename": "Phone_Small_image.zip",
             "Screenshots": [
             ]
         },
-                            	    	    {   
+          	    {   
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*EXTRA* Maps",
-            "version": "1.0",
-            "description": "Maps",
-            "branch": "S",
-            "filename": "Maps_FoxHound.zip",
-            "Screenshots": [
-            ]
-        },
-            	    	    {   
-            "mod": "*",
-            "board": "smdk4210",
-            "type": "extra",
-            "name": "*EXTRA* Keyboard Samsung",
-            "version": "1.0",
+            "name": "|EX| Keyboard Samsung",
+            "version": "*",
             "description": "Keyboard",
             "branch": "S",
             "filename": "AxT9IME.zip",
             "Screenshots": [
             ]
         },
-
-    	    	    {   
+            	    {   
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*EXTRA* AOSP Package",
+            "name": "|EX| AOSP Package",
             "version": "0.9",
             "description": "AOSP package for FoxHound",
             "branch": "S",
@@ -106,8 +69,8 @@
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*EXTRA* Beats Audio",
-            "version": "1.0",
+            "name": "|EX| Beats Audio",
+            "version": "*",
             "description": "Beats Audio for FoxHound",
             "branch": "S",
             "filename": "Beats_audio_SGSII.zip",
@@ -118,7 +81,7 @@
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*THEME* Black AOSP Gapp",
+            "name": "|TM| Black AOSP Gapp",
             "version": "1.0",
             "description": "FOXHOUND.PSYCHOMANTIS.BLACK.THEMED.AOSP.APPS By ToxicOne",
             "branch": "S",
@@ -130,8 +93,8 @@
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*THEME* Black Stock Gapp",
-            "version": "1.0",
+            "name": "|TM| Black Stock Gapp",
+            "version": "*",
             "description": "FOXHOUND.PSYCHOMANTIS.BLACK.THEMED.STOCK.APPS By ToxicOne",
             "branch": "S",
             "filename": "FOXHOUND.PSYCHOMANTIS.BLACK.THEMED.STOCK.APPS_signed.zip",
@@ -142,8 +105,8 @@
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
-            "name": "*THEME* ICS REVOLUTION THEME",
-            "version": "1.0",
+            "name": "|TM| ICS REVOLUTION THEME",
+            "version": "*",
             "description": "ICS REVOLUTION THEME By ToxicOne for 0.9",
             "branch": "S",
             "filename": "ICS_Revolution_Theme.zip",
@@ -155,7 +118,7 @@
             "mod": "*",
             "board": "tuna",
             "type": "extra",
-            "name": "*TM* Green Infinitum",
+            "name": "|TM| Green Infinitum",
             "version": "0.3",
             "description": "Green infinitum for 0.5 By Razer(x)",
             "branch": "S",
@@ -167,8 +130,8 @@
             "mod": "*",
             "board": "tuna",
             "type": "extra",
-            "name": "*EX* Host File",
-            "version": "1.0",
+            "name": "|EX| Host File",
+            "version": "*",
             "description": "Host Stock ",
             "branch": "S",
             "filename": "Host.zip",
