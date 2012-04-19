@@ -5,18 +5,7 @@
 	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus/Extra"
     ],
     "UpdateList": [
-    	    	    	    {   
-            "mod": "*",
-            "board": "smdk4210",
-            "type": "extra",
-            "name": "|EX| Active Mod",
-            "version": "",
-            "description": "Tork,LockScreen AOSP,Skip song,Fix lag Home",
-            "branch": "S",
-            "filename": "Active_Mod.zip",
-            "Screenshots": [
-            ]
-        },
+
     	    	    {   
             "mod": "*",
             "board": "smdk4210",
