@@ -5,8 +5,7 @@
 	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus/Extra"
     ],
     "UpdateList": [
-
-    	    	    {   
+	    	    {   
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
@@ -90,7 +89,7 @@
             "Screenshots": [
             ]
         },
-                            	    {   
+               	    {   
             "mod": "*",
             "board": "smdk4210",
             "type": "extra",
