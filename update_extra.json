@@ -120,12 +120,11 @@
             "board": "tuna",
             "type": "extra",
             "name": "|TM| Green Infinitum",
-            "version": "0.3",
+            "version": "0.5",
             "description": "Green infinitum for 0.5 By Razer(x)",
             "branch": "S",
-            "filename": "green_infinitum_fox0.5_0.3.zip",
-            "Screenshots": ["https://www.dropbox.com/sh/pmbgmbj1cc945bc/YkGhRx6Lc2#f:Screenshot_2012-04-18-00-54-39.png","https://www.dropbox.com/sh/pmbgmbj1cc945bc/YkGhRx6Lc2#f:Screenshot_2012-04-18-19-28-39.png","https://www.dropbox.com/sh/pmbgmbj1cc945bc/YkGhRx6Lc2#f:Screenshot_2012-04-18-19-28-47.png","https://www.dropbox.com/sh/pmbgmbj1cc945bc/YkGhRx6Lc2#f:Screenshot_2012-04-18-19-29-02.png"
-            ]
+            "filename": "green_infinitum_fox0.5_0.5.zip",
+            "Screenshots": ["https://dl.dropbox.com/sh/pmbgmbj1cc945bc/TPw5P7hkl4/Screenshot_2012-04-18-19-28-39.png","https://dl.dropbox.com/sh/pmbgmbj1cc945bc/_OIq2VYKRs/Screenshot_2012-04-18-00-54-39.png","https://dl.dropbox.com/sh/pmbgmbj1cc945bc/7O7xwjTEnA/Screenshot_2012-04-18-19-28-47.png","https://dl.dropbox.com/sh/pmbgmbj1cc945bc/4WngRZx556/Screenshot_2012-04-18-19-29-02.png","https://dl.dropbox.com/sh/pmbgmbj1cc945bc/s5fhnlC8Ii/Screenshot_2012-04-18-19-29-20.png"
         },
             	    	    {   
             "mod": "*",
