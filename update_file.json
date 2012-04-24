@@ -75,6 +75,16 @@
             "branch": "S",
             "filename": "FoxHound_0.8_LP3_ICS_GSII_By_SnakeS_part1.zip"
         },
+                    {   
+            "mod": "Nexus",
+            "board": "tuna",
+            "type": "rom",
+            "name": "FoxHound 0.6",
+            "version": "0.6",
+            "description": "FoxHound 0.6 based on 4.0.4",
+            "branch": "S",
+            "filename": "FoxHound_0.6_GSM_4.0.4_Black_Edition.zip"
+        },
                           {   
             "mod": "Nexus",
             "board": "tuna",
