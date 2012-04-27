@@ -5,6 +5,16 @@
     ],
     "UpdateList": [
     	
+    	    	    	  {   
+            "mod": "GT-I9100",
+            "board": "smdk4210",
+            "type": "rom",
+            "name": "FoxHound GreyFox",
+            "version": "1.0",
+            "description": "FoxHound GreyFox",
+            "branch": "S",
+            "filename": "FoxHound_GreyFox_LP9_ICS_GSII_By_SnakeS.zip"
+        },
     	    	       {   
             "mod": "GT-I9100",
             "board": "smdk4210",
