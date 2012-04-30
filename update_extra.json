@@ -89,6 +89,18 @@
             "Screenshots": [
             ]
         },
+                            	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "|TM| Pacman GreyFox",
+            "version": "",
+            "description": "Pacman_GreyFox theme By pedro.coba",
+            "branch": "S",
+            "filename": "Pacman_GreyFox.zip",
+            "Screenshots": ["http://img69.imageshack.us/img69/97/foxhoundv2theme.png"
+            ]
+        },
                     	    {   
             "mod": "*",
             "board": "smdk4210",
@@ -111,18 +123,6 @@
             "branch": "S",
             "filename": "FOXHOUND.PSYCHOMANTIS.BLACK.THEMED.STOCK.APPS_signed.zip",
             "Screenshots": [
-            ]
-        },
-            	    {   
-            "mod": "*",
-            "board": "smdk4210",
-            "type": "extra",
-            "name": "|TM| ICS REVOLUTION THEME",
-            "version": "",
-            "description": "ICS REVOLUTION THEME By ToxicOne for 0.9",
-            "branch": "S",
-            "filename": "ICS_Revolution_Theme.zip",
-            "Screenshots": ["http://www.mediafire.com/convkey/c5a2/ayq3b3by9z56z6b5g.jpg","http://www.mediafire.com/convkey/809d/bocq99ldqz457pf5g.jpg","http://www.mediafire.com/convkey/f7a1/5aczdv42obszbi35g.jpg","http://www.mediafire.com/convkey/c20f/5wtrt9xy0u84m2w5g.jpg","http://www.mediafire.com/convkey/579c/wrvbv12rdwyvb5r5g.jpg"
             ]
         },
         
