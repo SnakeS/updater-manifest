@@ -4,7 +4,16 @@
 	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus"
     ],
     "UpdateList": [
-    	
+    	    	   	  {   
+            "mod": "GT-I9100",
+            "board": "smdk4210",
+            "type": "rom",
+            "name": "FoxHound Sniper Wolf",
+            "version": "1.0",
+            "description": "FoxHound Sniper Wolf",
+            "branch": "S",
+            "filename": "FoxHound_Sniper_Wolf_LPD_ICS_GSII_By_SnakeS.zip"
+        },
     	   	  {   
             "mod": "GT-I9100",
             "board": "smdk4210",
