@@ -5,6 +5,18 @@
 	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus/Extra"
     ],
     "UpdateList": [
+    	    	    		    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "|EX| Calendar SniperWolf",
+            "version": "",
+            "description": "FoxHound_Calendar_Sniper_Wolf.zip",
+            "branch": "S",
+            "filename": "FoxHound_Calendar_Sniper_Wolf.zip",
+            "Screenshots": [
+            ]
+        },
     	    		    	    {   
             "mod": "*",
             "board": "smdk4210",
