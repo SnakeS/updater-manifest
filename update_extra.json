@@ -5,6 +5,18 @@
 	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus/Extra"
     ],
     "UpdateList": [
+    	    		    	    {   
+            "mod": "*",
+            "board": "smdk4210",
+            "type": "extra",
+            "name": "|EX| MMS Fix SniperWolf",
+            "version": "",
+            "description": "FoxHound_MMS_Fix_Sniper_Wolf.zip",
+            "branch": "S",
+            "filename": "FoxHound_MMS_Fix_Sniper_Wolf.zip",
+            "Screenshots": [
+            ]
+        },
     		    	    {   
             "mod": "*",
             "board": "smdk4210",
