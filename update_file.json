@@ -4,7 +4,17 @@
 	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus"
     ],
     "UpdateList": [
-    	    	   	  {   
+    	    	    {   
+            "mod": "GT-I9100",
+            "board": "aosp",
+            "type": "rom",
+            "name": "FoxHound",
+            "version": "2.0",
+            "description": "FoxHound",
+            "branch": "S",
+            "filename": "FoxHound_0.2_GSII_4.0.4_Black_Edition_28052012.zip"
+        },
+    	    	   {   
             "mod": "GT-I9100",
             "board": "smdk4210",
             "type": "rom",
