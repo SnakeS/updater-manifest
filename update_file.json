@@ -9,7 +9,7 @@
             "board": "aosp",
             "type": "rom",
             "name": "FoxHound",
-            "version": "2.0",
+            "version": "0.2",
             "description": "FoxHound",
             "branch": "S",
             "filename": "FoxHound_0.2_GSII_4.0.4_Black_Edition_28052012.zip"
