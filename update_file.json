@@ -6,145 +6,14 @@
     ],
     "UpdateList": [
     	    	    {   
-            "mod": "GT-I9100",
-            "board": "aosp",
+            "mod": "GT-I9300",
+            "board": "smdk4x12",
             "type": "rom",
-            "name": "FoxHound 28052012",
+            "name": "FoxHound",
             "version": "0.2",
             "description": "FoxHound",
             "branch": "S",
-            "filename": "FoxHound_0.2_GSII_4.0.4_Black_Edition_28052012.zip"
+            "filename": "FoxHound_0.2_GSIII_Blacked.zip"
         },
-    	    	   {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound Sniper Wolf",
-            "version": "1.0",
-            "description": "FoxHound Sniper Wolf",
-            "branch": "S",
-            "filename": "FoxHound_Sniper_Wolf_LPD_ICS_GSII_By_SnakeS.zip"
-        },
-    	   	  {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound GreyFox V2",
-            "version": "2.0",
-            "description": "FoxHound GreyFox V2",
-            "branch": "S",
-            "filename": "FoxHound_GreyFox_V2_LP9_ICS_GSII_By_SnakeS.zip"
-        },
-    	    	    	  {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound GreyFox",
-            "version": "1.0",
-            "description": "FoxHound GreyFox",
-            "branch": "S",
-            "filename": "FoxHound_GreyFox_LP9_ICS_GSII_By_SnakeS.zip"
-        },
-    	    	       {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound PsychoMantis V2",
-            "version": "2.0",
-            "description": "FoxHound PsychoMantis V2",
-            "branch": "S",
-            "filename": "FoxHound_PsychoMantis_V2_LP7_ICS_GSII_By_SnakeS.zip"
-        },
-    	       {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound PsychoMantis 1.0",
-            "version": "1.0",
-            "description": "FoxHound PsychoMantis",
-            "branch": "S",
-            "filename": "FoxHound_PsychoMantis_LP7_ICS_GSII_By_SnakeS.zip"
-        },
-    	    	            	   {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound Otacon V1",
-            "version": "1.0",
-            "description": "FoxHound Otacon V1",
-            "branch": "S",
-            "filename": "FoxHound_Otacon_V1_LP4_ICS_GSII_By_SnakeS.zip"
-        },
-    	    	            	   {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound Otacon",
-            "version": "",
-            "description": "FoxHound Otacon",
-            "branch": "S",
-            "filename": "FoxHound_Otacon_LP4_ICS_GSII_By_SnakeS.zip"
-        },
-    	            	   {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound 1.0",
-            "version": "1.0",
-            "description": "FoxHound 1.0",
-            "branch": "S",
-            "filename": "FoxHound_1.0_LP3_ICS_GSII_By_SnakeS.zip"
-        },
-              	   {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound 0.9",
-            "version": "0.9",
-            "description": "FoxHound 0.9 Ics",
-            "branch": "S",
-            "filename": "FoxHound_0.9_LP3_ICS_GSII_By_SnakeS.zip"
-        },
-    	    	    {   
-            "mod": "GT-I9100",
-            "board": "smdk4210",
-            "type": "rom",
-            "name": "FoxHound 0.8",
-            "version": "0.8",
-            "description": "FoxHound 0.8 Ics",
-            "branch": "S",
-            "filename": "FoxHound_0.8_LP3_ICS_GSII_By_SnakeS_part1.zip"
-        },
-                    {   
-            "mod": "Nexus",
-            "board": "tuna",
-            "type": "rom",
-            "name": "FoxHound 0.6",
-            "version": "0.6",
-            "description": "FoxHound 0.6 based on 4.0.4",
-            "branch": "S",
-            "filename": "FoxHound_0.6_GSM_4.0.4_Black_Edition.zip"
-        },
-                          {   
-            "mod": "Nexus",
-            "board": "tuna",
-            "type": "rom",
-            "name": "FoxHound 0.5",
-            "version": "0.5",
-            "description": "FoxHound 0.5 based on 4.0.4",
-            "branch": "S",
-            "filename": "FoxHound_0.5_GSM_4.0.4_Black_Edition.zip"
-        },
-                {   
-            "mod": "Nexus",
-            "board": "tuna",
-            "type": "rom",
-            "name": "FoxHound 0.4",
-            "version": "0.4",
-            "description": "FoxHound 0.4 based on 4.0.4",
-            "branch": "S",
-            "filename": "FoxHound_0.4_GSM_4.0.4_Black_Edition.zip"
-        },
-        
      ]
 }
