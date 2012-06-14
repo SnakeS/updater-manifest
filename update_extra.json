@@ -2,9 +2,22 @@
     "MirrorList": [
 	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSII/Extra",
 	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSII/Extra",
+	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSIII/Extra",
 	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus/Extra"
     ],
-    "UpdateList": [
+    "UpdateList": [    	   
+    	            {   
+            "mod": "*",
+            "board": "smdk4x12",
+            "type": "extra",
+            "name": "|EX| Stock Mms",
+            "version": "",
+            "description": "Mms_Stock.zip",
+            "branch": "S",
+            "filename": "Mms_Stock.zip",
+            "Screenshots": [
+            ]
+        }, 	
     	    	    		    	    {   
             "mod": "*",
             "board": "smdk4210",
