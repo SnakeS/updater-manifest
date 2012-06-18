@@ -15,5 +15,15 @@
             "branch": "S",
             "filename": "FoxHound_0.2_GSIII_Blacked.zip"
         },
+            	  {   
+            "mod": "GT-I9300",
+            "board": "smdk4x12",
+            "type": "rom",
+            "name": "FoxHound 0.3 Blacked",
+            "version": "0.3",
+            "description": "FoxHound 0.3 Blacked",
+            "branch": "S",
+            "filename": "FoxHound_0.3_GSIII_Blacked.zip"
+        },
      ]
 }
