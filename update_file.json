@@ -5,6 +5,16 @@
 	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus"
     ],
     "UpdateList": [
+    	    	            {   
+            "mod": "GT-I9300",
+            "board": "smdk4x12",
+            "type": "rom",
+            "name": "FoxHound 0.4 Rising Blacked",
+            "version": "0.4",
+            "description": "FoxHound 0.4 Blacked",
+            "branch": "S",
+            "filename": "FoxHound_0.4_GSIII_Blacked.zip"
+        },
     	            {   
             "mod": "GT-I9300",
             "board": "smdk4x12",
