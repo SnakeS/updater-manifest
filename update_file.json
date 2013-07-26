@@ -1,19 +1,17 @@
 {
     "MirrorList": [
-    	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSIII",
-	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSII",
-	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus"
+	"http://www.foxhoundota.com/GSIV"
     ],
     "UpdateList": [
     	    	            {   
             "mod": "GT-I9505",
             "board": "msm8960",
             "type": "rom",
-            "name": "FoxHound 0.4 Rising Blacked",
-            "version": "0.4",
-            "description": "FoxHound 0.4 Blacked",
+            "name": "FoxHound 1.4",
+            "version": "1.4",
+            "description": "FoxHound 1.4",
             "branch": "S",
-            "filename": "FoxHound_0.4_GSIII_Blacked.zip"
+            "filename": "FoxHound_1.4_By_Snakes_GT-I9505.zip"
         },
     	            {   
             "mod": "GT-I9300",
