@@ -6,8 +6,8 @@
     ],
     "UpdateList": [
     	    	            {   
-            "mod": "GT-I9300",
-            "board": "smdk4x12",
+            "mod": "GT-I9505",
+            "board": "msm8960",
             "type": "rom",
             "name": "FoxHound 0.4 Rising Blacked",
             "version": "0.4",
