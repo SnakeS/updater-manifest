@@ -7,8 +7,8 @@
             "mod": "GT-I9505",
             "board": "msm8960",
             "type": "rom",
-            "name": "FoxHound 1.4",
-            "version": "1.4",
+            "name": "FoxHound 1.3",
+            "version": "1.3",
             "description": "FoxHound 1.4",
             "branch": "S",
             "filename": "FoxHound_1.4_By_Snakes_GT-I9505.zip"
