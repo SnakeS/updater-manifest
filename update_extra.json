@@ -1,14 +1,11 @@
 {
     "MirrorList": [
-	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSII/Extra",
-	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSII/Extra",
-	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSIII/Extra",
-	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_Nexus/Extra"
+	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSII/Extra"
     ],
     "UpdateList": [    	   
     	            {   
             "mod": "*",
-            "board": "smdk4x12",
+            "board": "msm8960",
             "type": "extra",
             "name": "|EX| Restore APK",
             "version": "",
