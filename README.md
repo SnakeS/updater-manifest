@@ -1,0 +1,3 @@
+updater-manifest
+================
+FoxHound Updater
