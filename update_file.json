@@ -4,6 +4,16 @@
 	"http://www.foxhoundrom.net/?dl_name=http://www.foxhoundota.com/GSIII/"
     ],
     "UpdateList": [
+    	    	    	    	    	            {   
+            "mod": "GT-I9300",
+            "board": "smdk4x12",
+            "type": "rom",
+            "name": "FoxHound 2.7
+            "version": "1.4",
+            "description": "FoxHound 2.7
+            "branch": "S",
+            "filename": "FoxHound_2.7_By_Snakes_GT-I9300_4.1.2.zip"
+        },
     	    	    	    	            {   
             "mod": "GT-I9300",
             "board": "smdk4x12",
