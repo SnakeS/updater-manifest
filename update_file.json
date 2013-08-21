@@ -1,29 +1,8 @@
 {
     "MirrorList": [
-	"http://www.foxhoundrom.net/?dl_name=http://www.foxhoundota.com/GSIV/",
-	"http://www.foxhoundrom.net/?dl_name=http://www.foxhoundota.com/GSIII/"
-    ],
+	"http://www.foxhoundrom.net/?dl_name=http://www.foxhoundota.com/GSIV/"],
+   
     "UpdateList": [
-    	    	    	    	    	            {   
-            "mod": "GT-I9300",
-            "board": "smdk4x12",
-            "type": "rom",
-            "name": "FoxHound 2.7
-            "version": "1.4",
-            "description": "FoxHound 2.7
-            "branch": "S",
-            "filename": "FoxHound_2.7_By_Snakes_GT-I9300_4.1.2.zip"
-        },
-    	    	    	    	            {   
-            "mod": "GT-I9300",
-            "board": "smdk4x12",
-            "type": "rom",
-            "name": "FoxHound 2.6
-            "version": "1.4",
-            "description": "FoxHound 2.6
-            "branch": "S",
-            "filename": "FoxHound_2.6_By_Snakes_GT-I9300.zip"
-        },
     	    	    	            {   
             "mod": "GT-I9505",
             "board": "msm8960",
@@ -53,7 +32,7 @@
             "description": "FoxHound 1.3",
             "branch": "S",
             "filename": "FoxHound_1.3_By_Snakes_GT-I9505.zip"
-        }
+        },
 
      ]
 }
