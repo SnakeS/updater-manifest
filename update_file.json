@@ -1,17 +1,18 @@
 {
     "MirrorList": [
-	"http://www.foxhoundrom.net/?dl_name=http://www.foxhoundota.com/GSIV/"
+	"http://www.foxhoundrom.net/?dl_name=http://www.foxhoundota.com/GSIV/",
+	"http://www.foxhoundrom.net/?dl_name=http://www.foxhoundota.com/GSIII/"
 	],
    "UpdateList": [
     	    	    	            {   
             "mod": "GT-I9505",
             "board": "msm8960",
             "type": "rom",
-            "name": "FoxHound 1.6",
-            "version": "1.6",
-            "description": "FoxHound 1.6",
+            "name": "FoxHound 1.7",
+            "version": "1.7",
+            "description": "FoxHound 1.7",
             "branch": "S",
-            "filename": "FoxHound_1.6_By_Snakes_GT-I9505.zip"
+            "filename": "FoxHound_1.5_By_Snakes_GT-I9505.zip"
         },
     	    	            {   
             "mod": "GT-I9505",
