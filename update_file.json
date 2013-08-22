@@ -2,8 +2,7 @@
     "MirrorList": [
 	"http://www.foxhoundrom.net/?dl_name=http://www.foxhoundota.com/GSIV/"
 	],
-   
-    "UpdateList": [
+   "UpdateList": [
     	    	    	            {   
             "mod": "GT-I9505",
             "board": "msm8960",
