@@ -3,6 +3,16 @@
 	"http://www.foxhoundrom.net/?dl_name=http://www.foxhoundota.com/GSIV/",
 	"http://www.foxhoundrom.net/?dl_name=http://www.foxhoundota.com/GSIII/"
 	],
+	   "UpdateList": [   	   	   	   	   	    	    	    	            {   
+            "mod": "GT-I9505",
+            "board": "msm8960",
+            "type": "rom",
+            "name": "FoxHound 3.3",
+            "version": "3.2",
+            "description": "FoxHound 3.3",
+            "branch": "S",
+            "filename": "FoxHound_Diamond_Dogs_3.3_By_Snakes_GT-I9505.zip"
+        },
    "UpdateList": [   	   	   	   	   	    	    	    	            {   
             "mod": "GT-I9505",
             "board": "msm8960",
